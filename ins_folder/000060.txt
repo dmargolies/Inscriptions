@@ -1,0 +1,59 @@
+HD-Number: HD000060
+TM-Number: 
+Province: Britannia
+Modern country: United Kingdom
+Find Spot(ancient name): Vindobala
+Find Spot (modern name): Rudchester
+Region: Northumberland
+Year of Find: 1982
+Find Spot (street, etc.): Kastell, bei
+Present location: Mus. Newcastle-upon-Tyne
+state of preservation: vollständig
+decoration: data available
+inscription-type: Owner/artist inscription
+inscription bearer: Instrumentum militare
+fields: A
+material: Blei
+height: 2.7
+width: 1.9
+depth: 
+height of inscribed field: 
+width of inscribed field: 
+letters size: 
+ligature: S
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 71Datierung Jahr Ende– 
+ 300
+date:specific:: Y
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: legiones
+status of the EDH-version: corresponds to AE reading || checked with drawing
+responsible individual: GRAEF
+last update: 2004-08-20
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: 
+punctuation: 
+literature: AE 1983, 0640.
+literature: M.W.C. Hassall - R.S.O. Tomlin, Britannia 14, 1983, 347, Nr. 39;
+literature: fig. 42 (Zeichnung). - AE 1983.
+comment: Ovales Siegel; auf der Rückseite Büste eines Mannes eingetieft.
+connections: 
+A-Text: Leg(io) XX V(aleria) v(ictrix)
+B-Text: LEG XX V V
+Alphabetical list of words in inscription: Legio  
+                                         
+            Valeria  
+                                         
+            XX  
+                                         
+            victrix

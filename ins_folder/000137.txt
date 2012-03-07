@@ -1,0 +1,125 @@
+HD-Number: HD000137
+TM-Number: 
+Province: Apulia et Calabria (Regio II)
+Modern country: Italy
+Find Spot(ancient name): Luceria, bei
+Find Spot (modern name): Lucera, bei
+Region: Foggia
+Year of Find: 
+Find Spot (street, etc.): Ager Lucerinus
+Present location: Lucera, Mus. Civ. &quot;Giuseppe Fiorelli&quot;
+state of preservation: vollständig
+decoration: 
+inscription-type: Epitaph
+inscription bearer: Tabula
+fields: A
+material: Marmor
+height: 30.0
+width: 30.0
+depth: 3.0
+height of inscribed field: 
+width of inscribed field: 
+letters size: 2.5-2
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 151Datierung Jahr Ende– 
+ 250
+date:specific:: Y
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: GRAEF
+last update: 2011-06-16
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: vorgezeichnete Hilfslinien
+punctuation: uncharacteristisch
+literature: AE 1983, 0244. (B)
+literature: M. Bàlice, ASP 34, 1981, 28-29, Nr. 34; Foto. - AE 1983.
+comment: (B): AE 1983: Z. 6: feci.
+connections: 
+person: 1
+name: Martine.
+praenomen: 
+nomen: 
+cognoment: Martina*
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: female
+relations: H
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 7
+lifetime:months:: 9
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 2
+name: Martialis
+praenomen: 
+nomen: 
+cognoment: Martialis
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: E
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: D(is) M(anibus) / Martin(a)e quae / vicsit(!) an(nos) VII /
+A-Text: me(nses) VIIII d(ies) XIIII / Martialis fil(iae) /
+A-Text: du(l)cis(s)im(a)e feci(t)
+B-Text: D M
+B-Text: MARTINE QVAE
+B-Text: VICSIT AN VII
+B-Text: ME VIIII D XIIII
+B-Text: MARTIALIS FIL
+B-Text: DVCISIME FECI
+Alphabetical list of words in inscription: Dis  
+                                         
+            Manibus  
+                                         
+            Martialis  
+                                         
+            Martinae  
+                                         
+            VII  
+                                         
+            VIIII  
+                                         
+            XIIII  
+                                         
+            annos  
+                                         
+            dies  
+                                         
+            dulcissimae  
+                                         
+            fecit  
+                                         
+            filiae  
+                                         
+            menses  
+                                         
+            quae  
+                                         
+            vicsit!

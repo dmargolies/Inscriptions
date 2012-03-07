@@ -1,0 +1,137 @@
+HD-Number: HD000010
+TM-Number: 
+Province: Aemilia (Regio VIII)
+Modern country: Italy
+Find Spot(ancient name): Ariminum
+Find Spot (modern name): Rimini
+Region: Forli
+Year of Find: 1936
+Find Spot (street, etc.): Friedhof
+Present location: Rimini, Mus. Arch. Com.
+state of preservation: vollständig
+decoration: 
+inscription-type: Epitaph
+inscription bearer: Urn
+fields: B
+material: 
+height: 46.0
+width: 52.5
+depth: 44.0
+height of inscribed field: 
+width of inscribed field: 
+letters size: 4.2-2.5
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 101Datierung Jahr Ende– 
+ 200
+date:specific:: Y
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: differs from AE reading || checked with photo
+responsible individual: GRAEF
+last update: 2007-05-16
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae oblongae
+punctuation: puncta triangularia (Spitze nach unten)
+literature: AE 1983, 0410. (B)
+literature: G.A. Mansuelli, Epigraphica 2, 1940, 185-186, Nr. 2; fig. 9.
+literature: - AE 1983.
+comment: (B): AE 1983: Z. 3/4: Secundus et Orphaeus.
+connections: patronus - libertus
+person: 1
+name: L. Asini Poli
+praenomen: L.
+nomen: Asinius
+cognoment: Polus
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 2
+name: Secundus
+praenomen: 
+nomen: 
+cognoment: Secundus
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: freedmen / freedwomen
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 3
+name: Orphaeus
+praenomen: 
+nomen: 
+cognoment: Orphaeus
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: freedmen / freedwomen
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: D(is) M(anibus) / L(uci) Asini Poli / Secundus / et Orphaeus /
+A-Text: lib(erti) p(atrono) b(ene) m(erenti)
+B-Text: D M
+B-Text: L ASINI POLI
+B-Text: SECVNDVS
+B-Text: ET ORPHAEVS
+B-Text: LIB P B M
+Alphabetical list of words in inscription: Asini  
+                                         
+            Dis  
+                                         
+            Luci  
+                                         
+            Manibus  
+                                         
+            Orphaeus  
+                                         
+            Poli  
+                                         
+            Secundus  
+                                         
+            bene  
+                                         
+            et  
+                                         
+            liberti  
+                                         
+            merenti  
+                                         
+            patrono

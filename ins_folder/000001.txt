@@ -1,0 +1,162 @@
+HD-Number: HD000001
+TM-Number: 
+Province: Latium et Campania (Regio I)
+Modern country: Italy
+Find Spot(ancient name): Cumae, bei
+Find Spot (modern name): Cuma, bei
+Region: Campania
+Year of Find: 
+Find Spot (street, etc.): 
+Present location: 
+state of preservation: vollständig
+decoration: 
+inscription-type: Epitaph
+inscription bearer: Tabula
+fields: A
+material: Marmor, geädert
+height: 33.0
+width: 34.0
+depth: 2.7
+height of inscribed field: 
+width of inscribed field: 
+letters size: 3.2-2
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 71Datierung Jahr Ende– 
+ 130
+date:specific:: Y
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: FERAUDI
+last update: 2009-04-29
+palaeography: longa: T
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: BC
+punctuation: AB
+literature: AE 1983, 0192.
+literature: M. Annecchino, Puteoli 4/5, 1980/81, 286-287, Nr. 17; fig. 17. (C) -
+literature: AE 1983.
+comment: (C): 2. Hälfte 1. - Anfang 2. Jh. - AE; Ende 1. - 1. Hälfte 2. Jh.
+comment: - Annecchino.
+connections: patronus - libertus
+connections: patronus - liberta
+connections: patrona - libertus
+connections: patrona - liberta
+person: 1
+name: Noniae P.f. Optatae
+praenomen: 
+nomen: Nonia
+cognoment: Optata
+supernomen: 
+filiation: P.f.
+tribus: 
+origo: 
+other: 
+gender: female
+relations: BF
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 2
+name: C. Iulio Artemoni
+praenomen: C.
+nomen: Iulius
+cognoment: Artemo
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: AE
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 3
+name: C. Iulius C.f. Optatus
+praenomen: C.
+nomen: Iulius
+cognoment: Optatus
+supernomen: 
+filiation: C.f.
+tribus: 
+origo: 
+other: 
+gender: male
+relations: G
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: D(is) M(anibus) / Noniae P(ubli) f(iliae) Optatae / et C(aio)
+A-Text: Iulio Artemoni / parentibus / libertis libertabusque /
+A-Text: posterisque eorum / C(aius) Iulius C(ai) f(ilius) Optatus /
+A-Text: filius
+B-Text: D M
+B-Text: NONIAE P F OPTATAE
+B-Text: ET C IVLIO ARTEMONI
+B-Text: PARENTIBVS
+B-Text: LIBERTIS LIBERTABVSQVE
+B-Text: POSTERISQVE EORVM
+B-Text: C IVLIVS C F OPTATVS
+B-Text: FILIVS
+Alphabetical list of words in inscription: Artemoni  
+                                         
+            Cai  
+                                         
+            Caio  
+                                         
+            Caius  
+                                         
+            Dis  
+                                         
+            Iulio  
+                                         
+            Iulius  
+                                         
+            Manibus  
+                                         
+            Noniae  
+                                         
+            Optatae  
+                                         
+            Optatus  
+                                         
+            Publi  
+                                         
+            eorum  
+                                         
+            et  
+                                         
+            filiae  
+                                         
+            filius  
+                                         
+            libertabusque  
+                                         
+            libertis  
+                                         
+            parentibus  
+                                         
+            posterisque

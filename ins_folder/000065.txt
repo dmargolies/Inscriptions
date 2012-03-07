@@ -1,0 +1,91 @@
+HD-Number: HD000065
+TM-Number: 
+Province: Hispania citerior
+Modern country: Portugal
+Find Spot(ancient name): 
+Find Spot (modern name): Chão Grande
+Region: Braga
+Year of Find: 
+Find Spot (street, etc.): 
+Present location: Mus. Pio XII Braga
+state of preservation: fragmentarisch
+decoration: data available
+inscription-type: Votive inscription
+inscription bearer: Altar
+fields: A
+material: Granit
+height: 57.5
+width: 41.0
+depth: 31.0
+height of inscribed field: 27
+width of inscribed field: 38
+letters size: 3-5
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 201Datierung Jahr Ende– 
+ 300
+date:specific:: Y
+social,economic, leagal history: 
+religion: B
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: NIQUET
+last update: 1997-07-24
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae communes
+punctuation: interpunctio omissa
+literature: AE 1983, 0554.
+literature: L. Dos Santos - P. Le Roux - A. Tranoy, Inscrições romanas do
+literature: Museu Pio XII em Braga (Braga 1983) 9-10, Nr. 6; lám. 2,6.
+literature: AE 1982, 0566. (B)
+literature: L. Dos Santos - P. Le Roux - A. Tranoy, Bracara Augusta 37, 1983,
+literature: 187-188, Nr. 6; lám. 2,6. - AE 1983.
+literature: D.M. Da Silva, Bracara Augusta 36, 1982, 244. - AE 1982.
+comment: (B): Z.1-3: Matern/us posuit / arudam.
+connections: 
+person: 1
+name: Mate[rn]us
+praenomen: 
+nomen: 
+cognoment: Maternus+
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: Mate[rn]/us posui[t] / aruda[m] / Iovi Opti/mo Ma/ximo
+B-Text: MATE[  ]
+B-Text: VS POSVI[ ]
+B-Text: ARVDA[ ]
+B-Text: IOVI OPTI
+B-Text: MO MA
+B-Text: XIMO
+Alphabetical list of words in inscription: Iovi  
+                                         
+            Maternus  
+                                         
+            Maximo  
+                                         
+            Optimo  
+                                         
+            arudam  
+                                         
+            posuit

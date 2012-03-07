@@ -1,0 +1,53 @@
+HD-Number: HD000117
+TM-Number: 
+Province: Roma?
+Modern country: Italy
+Find Spot(ancient name): Roma?
+Find Spot (modern name): Roma?
+Region: Lazio?
+Year of Find: 
+Find Spot (street, etc.): 
+Present location: Mentana, Privatbesitz
+state of preservation: vollständig
+decoration: data available
+inscription-type: Epitaph
+inscription bearer: Block
+fields: A
+material: 
+height: 51.0
+width: 56.0
+depth: 
+height of inscribed field: 12
+width of inscribed field: 56
+letters size: 8.5
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): Datierung Jahr Ende
+date:specific:: 
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: FERAUDI
+last update: 2010-01-04
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae oblongae
+punctuation: 
+literature: AE 1983, 0065.
+literature: R. Palmieri, in: G. Barbieri (Hrsg.), Il lapidario Zeri di Mentana
+literature: (Roma 1982) 123, Nr. 57; tav. 52. - AE 1983.
+comment: Grabinschrift für ein Pferd.
+comment: Vermutlich stadtrömische Inschrift.
+connections: 
+A-Text: Selmoni
+B-Text: SELMONI
+Alphabetical list of words in inscription: Selmoni

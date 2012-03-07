@@ -1,0 +1,164 @@
+HD-Number: HD000040
+TM-Number: 
+Province: Roma
+Modern country: Italy
+Find Spot(ancient name): Roma
+Find Spot (modern name): Roma
+Region: Lazio
+Year of Find: 
+Find Spot (street, etc.): 
+Present location: Mentana, Privatbesitz
+state of preservation: vollständig
+decoration: data available
+inscription-type: Epitaph
+inscription bearer: Urn
+fields: D
+material: Marmor
+height: 23.0
+width: 32.5
+depth: 27.0
+height of inscribed field: 9
+width of inscribed field: 14
+letters size: 1
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 201Datierung Jahr Ende– 
+ 300
+date:specific:: Y
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: data available
+political communities: 
+military: data available
+status of the EDH-version: corresponds to AE reading || checked with photo
+responsible individual: FERAUDI
+last update: 2011-04-06
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae oblongae
+punctuation: puncta triangularia (Spitze nach unten)
+literature: AE 1983, 0048.
+literature: L. Polverini, in: G. Barbieri (Hrsg.), Il lapidario Zeri di Mentana
+literature: (Roma 1982) 87-89, Nr. 34; tav. 31. - AE 1983.
+comment: Eine centuria Vitalis der cohors V praetoria ist unter Severus
+comment: Alexander bezeugt (CIL 6, 2833 = 32542).
+connections: 
+person: 1
+name: Vitalis
+praenomen: 
+nomen: 
+cognoment: Vitalis
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: military personnel
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 2
+name: Aelius Florus natione Pann.
+praenomen: 
+nomen: Aelius
+cognoment: Florus
+supernomen: 
+filiation: 
+tribus: 
+origo: Pannonius*
+other: 
+gender: male
+relations: 
+status: military personnel
+official positions: 
+occupation: 
+lifetime:years:: 35
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 3
+name: Aur. Auluzanus
+praenomen: 
+nomen: Aurelius*
+cognoment: Auluzanus
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: Aelius Florus mil(es) coh(ortis) V pr(aetoriae) |(centuria) //
+A-Text: Vitalis op(tio) kark(eris)(!) / natione Pann(onius) vi/xit
+A-Text: ann(os) XXXV mil(itavit) / ann(os) XVI Aur(elius) Aulu/zanus
+A-Text: her(es) b(ene) m(erenti) f(ecit)
+B-Text: AELIVS FLORVS MIL COH V PR |
+B-Text: 
+B-Text: VITALIS OP KARK
+B-Text: NATIONE PANN VI
+B-Text: XIT ANN XXXV MIL
+B-Text: ANN XVI AVR AVLV
+B-Text: ZANVS HER B M F
+Alphabetical list of words in inscription: Aelius  
+                                         
+            Auluzanus  
+                                         
+            Aurelius  
+                                         
+            Florus  
+                                         
+            Pannonius  
+                                         
+            V  
+                                         
+            Vitalis  
+                                         
+            XVI  
+                                         
+            XXXV  
+                                         
+            annos  
+                                         
+            bene  
+                                         
+            centuria  
+                                         
+            cohortis  
+                                         
+            fecit  
+                                         
+            heres  
+                                         
+            karkeris!  
+                                         
+            merenti  
+                                         
+            miles  
+                                         
+            militavit  
+                                         
+            natione  
+                                         
+            optio  
+                                         
+            praetoriae  
+                                         
+            vixit

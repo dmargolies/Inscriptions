@@ -1,0 +1,160 @@
+HD-Number: HD000022
+TM-Number: 
+Province: Roma
+Modern country: Italy
+Find Spot(ancient name): Roma
+Find Spot (modern name): Roma
+Region: Lazio
+Year of Find: 
+Find Spot (street, etc.): Via Cassia, Privatgrundstück Carnevali
+Present location: Mentana, Privatbesitz
+state of preservation: vollständig
+decoration: 
+inscription-type: Epitaph
+inscription bearer: Stele
+fields: A
+material: Travertin
+height: 83.0
+width: 32.0
+depth: 
+height of inscribed field: 60
+width of inscribed field: 32
+letters size: 4
+ligature: J
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): -30Datierung Jahr Ende– 
+ -1
+date:specific:: Y
+social,economic, leagal history: CN
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: corresponds to AE reading || checked with photo
+responsible individual: FERAUDI
+last update: 2011-12-27
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae oblongae
+punctuation: uncharacteristisch
+literature: AE 1983, 0035.
+literature: G. Pisani Sartorio, in: G. Barbieri (Hrsg.), Il lapidario Zeri di
+literature: Mentana (Roma 1982) 5-6, Nr. 4; tav. 3. - AE 1983.
+literature: CIL 06, 19247. (B)
+comment: Z. 4 (Anfang): theta nigrum
+comment: (B): CIL: P. Helvacius / C.f. Labies / Nonia T.f. Secund. / A. P.
+comment: Helvacius P.f. / Noniaes L. Felicio / in fr. p. XV / in ag. p. XV.
+connections: libertus - patrona
+person: 1
+name: P. Helvacius C.P.l. Abies
+praenomen: P.
+nomen: Helvacius
+cognoment: Abies
+supernomen: 
+filiation: 8
+tribus: 
+origo: 
+other: 
+gender: male
+relations: A?
+status: freedmen / freedwomen
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 2
+name: Nonia T.f. Secund.
+praenomen: 
+nomen: Nonia
+cognoment: Secunda*
+supernomen: 
+filiation: T.f.
+tribus: 
+origo: 
+other: 
+gender: female
+relations: B?
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 3
+name: P. Helvacius P. et Noniaes(!) l. Felicio
+praenomen: P.
+nomen: Helvacius
+cognoment: Felicio
+supernomen: 
+filiation: 8
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: freedmen / freedwomen
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: V(ivus) P(ublius) Helvacius / C(ai et) P(ubli) l(ibertus)
+A-Text: Abies / Nonia T(iti) f(ilia) Secund(a) / @(obitus) P(ublius)
+A-Text: Helvacius P(ubli) et / Noniaes(!) l(ibertus) Felicio / in
+A-Text: fr(onte) p(edes) XVI / in ag(ro) p(edes) XVI
+B-Text: V P HELVACIVS
+B-Text: C P L ABIES
+B-Text: NONIA T F SECVND
+B-Text: @ P HELVACIVS P ET
+B-Text: NONIAES L FELICIO
+B-Text: IN FR P XVI
+B-Text: IN AG P XVI
+Alphabetical list of words in inscription: @obitus  
+                                         
+            Abies  
+                                         
+            Cai  
+                                         
+            Felicio  
+                                         
+            Helvacius  
+                                         
+            Nonia  
+                                         
+            Noniaes!  
+                                         
+            Publi  
+                                         
+            Publius  
+                                         
+            Secunda  
+                                         
+            Titi  
+                                         
+            Vivus  
+                                         
+            XVI  
+                                         
+            agro  
+                                         
+            et  
+                                         
+            filia  
+                                         
+            fronte  
+                                         
+            in  
+                                         
+            libertus  
+                                         
+            pedes

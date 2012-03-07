@@ -1,0 +1,83 @@
+HD-Number: HD000118
+TM-Number: 
+Province: Baetica
+Modern country: Spain
+Find Spot(ancient name): Sabora, bei
+Find Spot (modern name): Cerro Real
+Region: Málaga
+Year of Find: 
+Find Spot (street, etc.): 
+Present location: Cerro Real, vermauert
+state of preservation: fragmentarisch
+decoration: data available
+inscription-type: Epitaph
+inscription bearer: Stele
+fields: B
+material: Kalkstein, lokal
+height: -40.0
+width: 55.0
+depth: 15.0
+height of inscribed field: 
+width of inscribed field: 42
+letters size: 5-4.5
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 51Datierung Jahr Ende– 
+ 150
+date:specific:: Y
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: differs from AE reading || checked with drawing
+responsible individual: GRAEF
+last update: 2011-06-09
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: 
+punctuation: uncharacteristisch
+literature: AE 1983, 0525. (B)
+literature: P. Rodríguez Oliva - R. Atencia Páez, BSEAA 49, 1983, 154-155,
+literature: Nr. 4; lám. 4,1; lám. 5, 1 (Zeichnung). (B) - AE 1983.
+literature: CIL 02 (2. Aufl.) 05, 00889.
+comment: Das Stück ist heute vermauert.
+comment: Z. 2: etwa 2 Buchstaben hinter X noch ein weiterer, nicht mehr
+comment: identifizierbarer Buchstabenrest.
+comment: (B): CIL II (2. Aufl.) 5, 889, AE 1983: Z. 2: Rest des Buchstabens X
+comment: nicht gelesen.
+connections: 
+person: 1
+name: Aurelia Euprosin[e]
+praenomen: 
+nomen: Aurelia
+cognoment: Euprosine+
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: female
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: Aurelia Eupro/sin[e ---]X[---] / [&
+B-Text: AVRELIA EVPRO
+B-Text: SIN[     ]X[   ]
+B-Text: [
+Alphabetical list of words in inscription: -X-  
+                                         
+            Aurelia  
+                                         
+            Euprosine

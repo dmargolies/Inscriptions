@@ -1,0 +1,230 @@
+HD-Number: HD000096
+TM-Number: 
+Province: Britannia
+Modern country: United Kingdom
+Find Spot(ancient name): Aquae Sulis
+Find Spot (modern name): Bath
+Region: Avon
+Year of Find: 1979
+Find Spot (street, etc.): Röm. Bad
+Present location: 
+state of preservation: vollständig
+decoration: 
+inscription-type: Defixio
+inscription bearer: Tessera
+fields: C
+material: Blei-Zinn
+height: 5.9
+width: 2.2
+depth: 0.7
+height of inscribed field: 
+width of inscribed field: 
+letters size: 
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 301Datierung Jahr Ende– 
+ 400
+date:specific:: Y
+social,economic, leagal history: 
+religion: H
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: FERAUDI
+last update: 2011-12-27
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae cursivae/actuariae
+punctuation: interpunctio omissa
+literature: AE 1983, 0634.
+literature: M.W.C. Hassall - R.S.O. Tomlin, Britannia 14, 1983, 336, Nr. 4;
+literature: fig. 35 (Zeichnung). - AE.
+comment: Y: Datierung nach M.W.C. Hassall - R.S.O. Tomlin.
+connections: 
+person: 1
+name: Cunsa
+praenomen: 
+nomen: 
+cognoment: Cunsa
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: female
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 2
+name: Maria
+praenomen: 
+nomen: 
+cognoment: Maria
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: female
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 3
+name: Docimedis
+praenomen: 
+nomen: 
+cognoment: Docimedis
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: female
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 4
+name: Vendibedis
+praenomen: 
+nomen: 
+cognoment: Vendibedis
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: female
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 5
+name: Sedebelia
+praenomen: 
+nomen: 
+cognoment: Sedebelia
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: female
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 6
+name: Cunsus
+praenomen: 
+nomen: 
+cognoment: Cunsus
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 7
+name: Severiaanus(!)
+praenomen: 
+nomen: 
+cognoment: Severiaanus (= Severianus)
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 8
+name: Senilla
+praenomen: 
+nomen: 
+cognoment: Senilla
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: female
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: Cunsa // Maria / Docimedis // Vendibedis / Sedebelia // Cunsus
+A-Text: / Severia{a}nus / Senilla
+B-Text: CVNSA
+B-Text: 
+B-Text: MARIA
+B-Text: DOCIMEDIS
+B-Text: 
+B-Text: VENDIBEDIS
+B-Text: SEDEBELIA
+B-Text: 
+B-Text: CVNSVS
+B-Text: SEVERIAANVS
+B-Text: SENILLA
+Alphabetical list of words in inscription: Cunsa  
+                                         
+            Cunsus  
+                                         
+            Docimedis  
+                                         
+            Maria  
+                                         
+            Sedebelia  
+                                         
+            Senilla  
+                                         
+            Severiaanus  
+                                         
+            Vendibedis

@@ -1,0 +1,212 @@
+HD-Number: HD000105
+TM-Number: 
+Province: Britannia
+Modern country: United Kingdom
+Find Spot(ancient name): Londinium
+Find Spot (modern name): London
+Region: London
+Year of Find: 1978
+Find Spot (street, etc.): Watling Court, 41-53 Cannon Street
+Present location: Mus. of London
+state of preservation: mehrere Fragmente
+decoration: 
+inscription-type: Military diploma
+inscription bearer: Tabula
+fields: I
+material: Bronze
+height: -51.0
+width: -59.0
+depth: 0.2
+height of inscribed field: 
+width of inscribed field: 
+letters size: 
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 116Datierung Jahr Ende
+date:specific:: AY
+social,economic, leagal history: K
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: FERAUDI
+last update: 2008-10-22
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: 
+punctuation: interpunctio omissa
+literature: AE 1983, 0638. (B)
+literature: M.W.C. Hassall - R.S.O. Tomlin, Britannia 14, 1983, 344-345, Nr. 34;
+literature: fig. 41 (Zeichnung). (B) - AE.
+literature: RMD 083; pl. 2a; pl. 2b u. c (Zeichnungen).
+literature: -
+comment: Zweites Fragment -40 x -59 x 0,1.
+comment: (B): Außenseite: Z.8: AE, Hassall: ANDROVER statt [--- Alex?]andro
+comment: Ver[eniciano? ---].
+comment: Es handelt sich vielleicht um den cos. suff. 116 C. Iulius Alexander
+comment: Berenicianus.
+connections: 
+person: 1
+name: [--- Alexa?]ndro Ver[eniciano?](!)
+praenomen: 0
+nomen: 0
+cognoment: Alexander+? Verenicianus+? (= Berenicianus+?)
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: A
+gender: male
+relations: 
+status: senatorial order
+official positions: höhere Funktionen in der Verwaltung
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 2
+name: [Q. Pompei] Hom[eri]
+praenomen: Q.+
+nomen: Pompeius+
+cognoment: Homerus+
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: $] / [---]EM[---] / [---]SN[---] / [---]MA[---] /
+A-Text: [---]ETIIN[---] / [& // [--- stipendis emeritis dimi]s[sis
+A-Text: ho]nest[a missione] / [quorum nomina su]bscripta sunt [ipsis
+A-Text: lib]/[eris posterisque] eorum civitate[m dedit] / [et conubium
+A-Text: cum] uxoribus quas tu[nc hab]/[uissent cum est c]ivitas iis
+A-Text: data au[t siqui] / [caelibes essent cu]m iis quas pos[tea
+A-Text: dux]/[issent dumtaxat sing]uli singu[las ---] / [---
+A-Text: Alex?]andro Ver[o? ---] / [------] / ANT[--- co(n)s(ulibus)]
+A-Text: // [Q(uinti) Pompei] Hom[eri]
+B-Text: ]
+B-Text: [   ]EM[   ]
+B-Text: [   ]SN[   ]
+B-Text: [   ]MA[   ]
+B-Text: [   ]ETIIN[   ]
+B-Text: [
+B-Text: 
+B-Text: [                           ]S[    HO]NEST[A MISSIONE]
+B-Text: [QVORVM NOMINA SV]BSCRIPTA SVNT [IPSIS LIB]
+B-Text: [ERIS POSTERISQVE] EORVM CIVITATE[M DEDIT]
+B-Text: [ET CONVBIVM CVM] VXORIBVS QVAS TV[NC HAB]
+B-Text: [VISSENT CVM EST C]IVITAS IIS DATA AV[       ]
+B-Text: [                  ]M IIS QVAS POS[    DVX]
+B-Text: [ISSENT DVMTAXAT SING]VLI SINGV[LAS    ]
+B-Text: [    ALEX]ANDRO VER[O    ]
+B-Text: [      ]
+B-Text: ANT[    COS]
+B-Text: 
+B-Text: [        ] HOM[   ]
+Alphabetical list of words in inscription: -EM-  
+                                         
+            -ETIIN-  
+                                         
+            -MA-  
+                                         
+            -SN-  
+                                         
+            ANT-  
+                                         
+            Alexandro?  
+                                         
+            Homeri  
+                                         
+            Pompei  
+                                         
+            Quinti  
+                                         
+            Vero?  
+                                         
+            aut  
+                                         
+            caelibes  
+                                         
+            civitas  
+                                         
+            civitatem  
+                                         
+            consulibus  
+                                         
+            conubium  
+                                         
+            cum  
+                                         
+            data  
+                                         
+            dedit  
+                                         
+            dimissis  
+                                         
+            dumtaxat  
+                                         
+            duxissent  
+                                         
+            emeritis  
+                                         
+            eorum  
+                                         
+            essent  
+                                         
+            est  
+                                         
+            et  
+                                         
+            habuissent  
+                                         
+            honesta  
+                                         
+            iis  
+                                         
+            ipsis  
+                                         
+            liberis  
+                                         
+            missione  
+                                         
+            nomina  
+                                         
+            postea  
+                                         
+            posterisque  
+                                         
+            quas  
+                                         
+            quorum  
+                                         
+            singulas  
+                                         
+            singuli  
+                                         
+            siqui  
+                                         
+            stipendis  
+                                         
+            subscripta  
+                                         
+            sunt  
+                                         
+            tunc  
+                                         
+            uxoribus

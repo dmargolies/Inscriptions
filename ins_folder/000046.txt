@@ -1,0 +1,134 @@
+HD-Number: HD000046
+TM-Number: 
+Province: Roma
+Modern country: Italy
+Find Spot(ancient name): Roma
+Find Spot (modern name): Roma
+Region: Lazio
+Year of Find: 
+Find Spot (street, etc.): Via Salaria - Via Pinciana, Nekropole zwischen
+Present location: Mentana, Privatbesitz
+state of preservation: fragmentarisch
+decoration: 
+inscription-type: Epitaph
+inscription bearer: Tabula
+fields: F
+material: Marmor
+height: 50.0
+width: 50.0
+depth: 6.0
+height of inscribed field: 
+width of inscribed field: 
+letters size: 5-2
+ligature: S
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 71Datierung Jahr Ende– 
+ 100
+date:specific:: Y
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: data available
+status of the EDH-version: corresponds to AE reading || checked with photo
+responsible individual: FERAUDI
+last update: 2010-01-04
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae oblongae
+punctuation: AD
+literature: AE 1983, 0054.
+literature: L. Polverini, in: G. Barbieri (Hrsg.), Il lapidario Zeri di Mentana
+literature: (Roma 1982) 98-99, Nr. 41; tav. 38,1. - AE 1983.
+comment: Tafel beidseitig beschrieben; Publikation der Rückseite in
+comment: CIL 06, 33965 = ILS 5209.
+comment: 
+comment: 
+connections: 
+person: 1
+name: C. Pompennae Valenti
+praenomen: C.
+nomen: Pompenna
+cognoment: Valens
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: A
+status: military personnel
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 2
+name: Flavia [Me?]lite
+praenomen: 
+nomen: Flavia
+cognoment: Melite+?
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: female
+relations: B
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: Dis Man(ibus) / C(aio) Pompennae / Valenti / mil(iti)
+A-Text: c(o)ho[r(tis)] XI urb(anae) / Flavia [Me?]lite / coniugi
+A-Text: b(ene) m(erenti) / s(ibi) p(osteris)q(ue) s(uis)
+B-Text: DIS MAN
+B-Text: C POMPENNAE
+B-Text: VALENTI
+B-Text: MIL CHO[ ] XI VRB
+B-Text: FLAVIA [  ]LITE
+B-Text: CONIVGI B M
+B-Text: S PQ S
+Alphabetical list of words in inscription: Caio  
+                                         
+            Dis  
+                                         
+            Flavia  
+                                         
+            Manibus  
+                                         
+            Melite?  
+                                         
+            Pompennae  
+                                         
+            Valenti  
+                                         
+            XI  
+                                         
+            bene  
+                                         
+            cohortis  
+                                         
+            coniugi  
+                                         
+            merenti  
+                                         
+            militi  
+                                         
+            posterisque  
+                                         
+            sibi  
+                                         
+            suis  
+                                         
+            urbanae

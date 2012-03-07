@@ -1,0 +1,115 @@
+HD-Number: HD000011
+TM-Number: 
+Province: Latium et Campania (Regio I)
+Modern country: Italy
+Find Spot(ancient name): Roma
+Find Spot (modern name): Roma
+Region: Lazio
+Year of Find: 
+Find Spot (street, etc.): Magliana, Tiber
+Present location: Mentana, Privatbesitz
+state of preservation: fragmentarisch
+decoration: data available
+inscription-type: Epitaph
+inscription bearer: Stele
+fields: B
+material: Marmor
+height: -57.0
+width: 52.0
+depth: 13.0
+height of inscribed field: -34
+width of inscribed field: 41
+letters size: 5-3
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 54Datierung Jahr Ende– 
+ 68
+date:specific:: Y
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: C
+political communities: 
+military: N
+status of the EDH-version: provisional work status
+responsible individual: FERAUDI
+last update: 2010-01-04
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae oblongae
+punctuation: interpunctio omissa
+literature: AE 1983, 0058.
+literature: L. Polverini, in: G. Barbieri (Hrsg.), Il lapidario Zeri di Mentana
+literature: (Roma 1982) 102-103, Nr. 45; tav. 41. - AE 1983.
+comment: F. Münzer, RE XVIII 1 (1936), 41: Claudius wählt 50 Nero als
+comment: praenomen für seinen Schwiegersohn.
+comment: Y: Datierung wegen des Namens des Herrschers.
+connections: 
+person: 1
+name: Vetus n[atione] Ba[tavus]
+praenomen: 
+nomen: 
+cognoment: Vetus
+supernomen: 
+filiation: 
+tribus: 
+origo: Batavus+
+other: 
+gender: male
+relations: 
+status: slaves?
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 2
+name: Neronis Claud. Caesar.
+praenomen: Nero
+nomen: Claudius*
+cognoment: Caesar*
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: emperor / imperial household
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: Vetus / Neronis Claud(i) / Caesar(is) Aug(usti) / corp(oris)
+A-Text: cus(tos) n[atione] / Ba[ta(v)us ---] / [&
+B-Text: VETVS
+B-Text: NERONIS CLAVD
+B-Text: CAESAR AVG
+B-Text: CORP CVS N[      ]
+B-Text: BA[        ]
+B-Text: [
+Alphabetical list of words in inscription: Augusti  
+                                         
+            Batavus  
+                                         
+            Caesaris  
+                                         
+            Claudi  
+                                         
+            Neronis  
+                                         
+            Vetus  
+                                         
+            corporis  
+                                         
+            custos  
+                                         
+            natione

@@ -1,0 +1,117 @@
+HD-Number: HD000088
+TM-Number: 
+Province: Hispania citerior
+Modern country: Spain
+Find Spot(ancient name): 
+Find Spot (modern name): S. Esteban del Toral
+Region: León
+Year of Find: 
+Find Spot (street, etc.): Kirche, sek. verwendet
+Present location: Viñales, Privatbesitz
+state of preservation: mehrere Fragmente
+decoration: data available
+inscription-type: Votive inscription
+inscription bearer: Altar
+fields: A
+material: Granit, rötlich
+height: 52.0
+width: -20.0
+depth: 26.0
+height of inscribed field: 24
+width of inscribed field: -18
+letters size: 3.5-4.5
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 131Datierung Jahr Ende– 
+ 170
+date:specific:: Y
+social,economic, leagal history: 
+religion: C
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: FERAUDI
+last update: 2006-08-31
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae communes
+punctuation: puncta triangularia (Spitze nach unten)
+literature: AE 1984, 0554. (B)
+literature: AE 1983, 0592. (B)
+literature: J. Mangas, in: Paganismo y cristianismo en el occidente del imperio
+literature: romano (Oviedo 1983) 259-261; lám. 3a u. 3b. (B) - AE 1983.
+literature: T. Mañanes Pérez, HAnt 9/10, 1979/80, 191-193, Nr. 1; Fotos. (BC)
+literature: - AE 1984.
+comment: (B): Z. 1-4: Mangas, AE 1983: Cos[sue] / S (?) Fla[vi]/us Tu[ro]ni;
+comment: Z. 1: Mañanes: Cos(so); Z. 2-4: Mañanes, AE 1984: Fl[av]/us
+comment: Iul[ia]/ni.
+comment: Von dem Altar sind 2 aneinanderpassende Teile erhalten.
+comment: (C): Datierung: Mangas: Mitte 2. Jh.
+connections: 
+person: 1
+name: Fla[v]us Tu[ro?]ni
+praenomen: 
+nomen: Flavus+
+cognoment: 
+supernomen: 
+filiation: 1
+tribus: 
+origo: 
+other: 
+gender: male
+relations: G
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 2
+name: Tu[ro?]ni
+praenomen: 
+nomen: 
+cognoment: Turonus+?
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: E
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: Cos[sue] / s(acrum) Fla[v]/us Tu[ro?]/ni ex [v]/oto l(ibens)
+A-Text: [s(olvit)]
+B-Text: COS[   ]
+B-Text: S FLA[ ]
+B-Text: VS TV[  ]
+B-Text: NI EX [ ]
+B-Text: OTO L [ ]
+Alphabetical list of words in inscription: Cossue  
+                                         
+            Flavus  
+                                         
+            Turoni?  
+                                         
+            ex  
+                                         
+            libens  
+                                         
+            sacrum  
+                                         
+            solvit  
+                                         
+            voto

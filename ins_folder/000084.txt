@@ -1,0 +1,73 @@
+HD-Number: HD000084
+TM-Number: 
+Province: Hispania citerior
+Modern country: Portugal
+Find Spot(ancient name): 
+Find Spot (modern name): Cristelo
+Region: Viana do Castelo
+Year of Find: 
+Find Spot (street, etc.): 
+Present location: Mus. Pio XII Braga
+state of preservation: fragmentarisch
+decoration: 
+inscription-type: Votive inscription
+inscription bearer: Altar
+fields: A
+material: Granit
+height: -76.5
+width: 29.0
+depth: 22.0
+height of inscribed field: 33
+width of inscribed field: 23
+letters size: 3.5-8
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 1Datierung Jahr Ende– 
+ 300
+date:specific:: Y
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: NIQUET
+last update: 1997-07-24
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: Q
+palaeography: inserta: 
+writing type: litterae communes
+punctuation: 
+literature: AE 1983, 0567.
+literature: L. Dos Santos - P. Le Roux - A. Tranoy, Inscrições romanas do
+literature: Museu Pio XII em Braga (Braga 1983) 16-17, Nr. 19; lám. 8,27.
+literature: L. Dos Santos - P. Le Roux - A. Tranoy, Bracara Augusta 37, 1983, 194-
+literature: 195, Nr. 19; lám. 8,27. - AE.
+comment: Text ist falsch nachgraviert.
+comment: Der Stein wurde für sekundäre Verwendung zurechtgeschnitten.
+connections: 
+A-Text: SE Q / F M / B V L / SO
+B-Text: SE Q
+B-Text: F M
+B-Text: B V L
+B-Text: SO
+Alphabetical list of words in inscription: B  
+                                         
+            F  
+                                         
+            L  
+                                         
+            M  
+                                         
+            Q  
+                                         
+            SE  
+                                         
+            SO  
+                                         
+            V

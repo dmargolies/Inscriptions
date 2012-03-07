@@ -1,0 +1,152 @@
+HD-Number: HD000063
+TM-Number: 
+Province: Britannia
+Modern country: United Kingdom
+Find Spot(ancient name): 
+Find Spot (modern name): Old Kilpatrick
+Region: Dunbarton
+Year of Find: 1969
+Find Spot (street, etc.): Kastell
+Present location: Hunterian Mus. Glasgow
+state of preservation: vollständig
+decoration: data available
+inscription-type: Votive inscription
+inscription bearer: Altar
+fields: CA
+material: Sandstein, gelb
+height: 129.0
+width: 46.0
+depth: 41.0
+height of inscribed field: 
+width of inscribed field: 
+letters size: 
+ligature: JS
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 208Datierung Jahr Ende– 
+ 211
+date:specific:: Y
+social,economic, leagal history: 
+religion: B
+communal groups: 
+geography: 
+political communities: 
+military: AH
+status of the EDH-version: provisional work status
+responsible individual: KREMPL
+last update: 1990-11-11
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: VS
+palaeography: inserta: 
+writing type: litterae oblongae
+punctuation: ABE
+literature: AE 1983, 0642. (C)
+literature: E. Birley, Latomus 42, 1983, 73-77. - AE 1983.
+literature: AE 1971, 0226.
+literature: R.P. Wright, Britannia 1, 1970, 310-311, Nr. 20; pl. 36 B. - AE 1971.
+comment: Y: Brit. Expedition des Septimius Severus (nach E. Birley).
+comment: (C): AE: Datierung 209-211.
+connections: 
+person: 1
+name: Publicius Maternus
+praenomen: 
+nomen: Publicius
+cognoment: Maternus
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: equestrian order
+official positions: höhere Funktionen in der Verwaltung
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 2
+name: Iulio Candido
+praenomen: 
+nomen: Iulius
+cognoment: Candidus
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: military personnel
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: I(ovi) O(ptimo) M(aximo) / coh(ors) I Bae/tasiorum / c(ivium)
+A-Text: R(omanorum) cui pr/aeest Publicius / Maternus praef(ectus) /
+A-Text: c(uram) a(gente) Iulio / Candido |(centurione) leg(ionis) I
+A-Text: Italicae / v(otum) s(olvit) l(aetus) l(ibens) m(erito)
+B-Text: I O M
+B-Text: COH I BAE
+B-Text: TASIORVM
+B-Text: C R CVI PR
+B-Text: AEEST PVBLICIVS
+B-Text: MATERNVS PRAEF
+B-Text: C A IVLIO
+B-Text: CANDIDO | LEG I ITALICAE
+B-Text: V S L L M
+Alphabetical list of words in inscription: Baetasiorum  
+                                         
+            Candido  
+                                         
+            I  
+                                         
+            Iovi  
+                                         
+            Italicae  
+                                         
+            Iulio  
+                                         
+            Maternus  
+                                         
+            Maximo  
+                                         
+            Optimo  
+                                         
+            Publicius  
+                                         
+            Romanorum  
+                                         
+            agente  
+                                         
+            centurione  
+                                         
+            civium  
+                                         
+            cohors  
+                                         
+            cui  
+                                         
+            curam  
+                                         
+            laetus  
+                                         
+            legionis  
+                                         
+            libens  
+                                         
+            merito  
+                                         
+            praeest  
+                                         
+            praefectus  
+                                         
+            solvit  
+                                         
+            votum

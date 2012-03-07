@@ -1,0 +1,208 @@
+HD-Number: HD000097
+TM-Number: 
+Province: Hispania citerior
+Modern country: Spain
+Find Spot(ancient name): 
+Find Spot (modern name): Lara de los Infantes?
+Region: Burgos?
+Year of Find: 
+Find Spot (street, etc.): 
+Present location: Gijón, Privatbesitz
+state of preservation: fragmentarisch
+decoration: data available
+inscription-type: Epitaph
+inscription bearer: Stele
+fields: C
+material: Kalkstein
+height: -43.5
+width: -45.0
+depth: 13.0
+height of inscribed field: 34
+width of inscribed field: -45
+letters size: 3.5
+ligature: J
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 31Datierung Jahr Ende– 
+ 70
+date:specific:: Y
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: GRAEF
+last update: 2011-09-08
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae oblongae
+punctuation: uncharacteristisch
+literature: AE 1983, 0600. (B)
+literature: J. Mangas - I. Cortina, in: Paganismo y cristianismo en el occidente
+literature: del imperio romano (Oviedo 1983) 269-271; lám. 7. - AE.
+comment: Herkunft des Steins aufgrund des Dekors: Lara de los Infantes oder
+comment: Monte Cildá.
+comment: (B): rechte Inschrift: Z.5: Titus fehlt.
+connections: 
+person: 1
+name: Ambatae [D]essic[a]e Rufi [f.]
+praenomen: 
+nomen: Dessica+
+cognoment: Ambata
+supernomen: 
+filiation: 1+
+tribus: 
+origo: 
+other: B
+gender: female
+relations: BFHQ
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 55
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 2
+name: Rufi
+praenomen: 
+nomen: 
+cognoment: Rufus
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: ELP
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 3
+name: Titus Va.
+praenomen: 
+nomen: 
+cognoment: Titus
+supernomen: 
+filiation: 1
+tribus: 
+origo: 
+other: 
+gender: male
+relations: AGR
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 4
+name: Va.
+praenomen: 
+nomen: 
+cognoment: Va(---)
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: EP
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 5
+name: [A]rceae Dessicae Pat[er]ni f.
+praenomen: 
+nomen: Dessica
+cognoment: Arcea+
+supernomen: 
+filiation: 1
+tribus: 
+origo: 
+other: B
+gender: female
+relations: BHOS
+status: 
+official positions: 
+occupation: 
+lifetime:years:: -10
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 6
+name: Pat[er]ni
+praenomen: 
+nomen: 
+cognoment: Paternus+
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: AEPR
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: Ambatae / [D]essic/[a]e Rufi / [f(iliae)] an(norum) LV / Titus
+A-Text: / Va(---) soc/[e]rae // [A]rceae / Dessic/ae Pat[er]/ni
+A-Text: f(iliae) an(norum) X[---] / Titus / uxso[ri](!)
+B-Text: AMBATAE
+B-Text: [ ]ESSIC
+B-Text: [ ]E RVFI
+B-Text: [ ] AN LV
+B-Text: TITVS
+B-Text: VA SOC
+B-Text: [ ]RAE
+B-Text: 
+B-Text: [ ]RCEAE
+B-Text: DESSIC
+B-Text: AE PAT[  ]
+B-Text: NI F AN X[   ]
+B-Text: TITVS
+B-Text: VXSO[  ]
+Alphabetical list of words in inscription: Ambatae  
+                                         
+            Arceae  
+                                         
+            Dessicae  
+                                         
+            LV  
+                                         
+            Paterni  
+                                         
+            Rufi  
+                                         
+            Titus  
+                                         
+            Va-  
+                                         
+            X-  
+                                         
+            annorum  
+                                         
+            filiae  
+                                         
+            socerae  
+                                         
+            uxsori!

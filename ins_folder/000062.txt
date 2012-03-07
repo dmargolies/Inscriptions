@@ -1,0 +1,126 @@
+HD-Number: HD000062
+TM-Number: 
+Province: Hispania citerior
+Modern country: Portugal
+Find Spot(ancient name): 
+Find Spot (modern name): Esporões
+Region: Braga
+Year of Find: 
+Find Spot (street, etc.): Kirche
+Present location: Mus. Pio XII Braga
+state of preservation: fragmentarisch
+decoration: 
+inscription-type: Votive inscription
+inscription bearer: Altar
+fields: A
+material: Granit, grau
+height: -79.0
+width: 47.0
+depth: 41.0
+height of inscribed field: 32
+width of inscribed field: 37
+letters size: 4.5-7
+ligature: J
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 1Datierung Jahr Ende– 
+ 200
+date:specific:: Y
+social,economic, leagal history: 
+religion: B
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: NIQUET
+last update: 1997-07-30
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae communes
+punctuation: 
+literature: AE 1983, 0553. (B)
+literature: L. Dos Santos - P. Le Roux - A. Tranoy, Inscrições romanas do
+literature: Museu Pio XII em Braga (Braga 1983) 8-9, Nr. 5; lám. 2,5. (B)
+literature: L. Dos Santos - P. Le Roux - A. Tranoy, Bracara Augusta 37, 1983,
+literature: 186-187, Nr. 5; lám. 2,5. (B) - AE.
+comment: (B): Z.2: AE: Ni&lt;s>g(ri oder rini); Dos Santos - Le Roux - Tranoy:
+comment: Ni(s)g(ri oder rini).
+comment: Sockel und oberer Teil des Altars wurden zurechtgeschnitten.
+comment: Text der Inschrift ist mit Ausnahme von Z.3 und 5 nahezu identisch mit
+comment: einer Inschrift aus Monte Redondo (EphEp IX 267). Herausgeber
+comment: erwägen, daß vorliegende Inschrift vielleicht nach Vorbild des
+comment: titulus aus Monte Redondo nachgraviert wurde.
+connections: 
+person: 1
+name: Ti. C. Nig.
+praenomen: Ti.
+nomen: Claudius*?
+cognoment: Niger*?
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 2
+name: Hermes
+praenomen: 
+nomen: 
+cognoment: Hermes
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: slaves?
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: Pro s(alute) / Ti(beri) C(laudi?) Nig(ri?) / I(ovi) O(ptimo)
+A-Text: M(aximo) / Hermes / v(otum) l(ibens) s(olvit)
+B-Text: PRO S
+B-Text: TI C NIG
+B-Text: I O M
+B-Text: HERMES
+B-Text: V L S
+Alphabetical list of words in inscription: Claudi?  
+                                         
+            Hermes  
+                                         
+            Iovi  
+                                         
+            Maximo  
+                                         
+            Nigri?  
+                                         
+            Optimo  
+                                         
+            Pro  
+                                         
+            Tiberi  
+                                         
+            libens  
+                                         
+            salute  
+                                         
+            solvit  
+                                         
+            votum

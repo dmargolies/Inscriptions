@@ -1,0 +1,128 @@
+HD-Number: HD000127
+TM-Number: 
+Province: Baetica
+Modern country: Spain
+Find Spot(ancient name): Sabora, bei
+Find Spot (modern name): Cañete la Real
+Region: Málaga
+Year of Find: 1983
+Find Spot (street, etc.): Cortijo de la Colada
+Present location: verschollen
+state of preservation: vollständig
+decoration: data available
+inscription-type: Epitaph
+inscription bearer: Stele
+fields: B
+material: Kalkstein
+height: 95.0
+width: 35.0
+depth: 16.0
+height of inscribed field: 26
+width of inscribed field: 26
+letters size: 4-3
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 71Datierung Jahr Ende– 
+ 130
+date:specific:: Y
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: data available
+political communities: 
+military: 
+status of the EDH-version: differs from AE reading || checked with photo
+responsible individual: GRAEF
+last update: 2011-06-10
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: 
+punctuation: uncharacteristisch
+literature: AE 1983, 0528. (B)
+literature: P. Rodríguez Oliva - R. Atencia Páez, BSEAA 49, 1983, 157-158,
+literature: Nr. 7; lám. 7, 1; lám. 6, 2 (Zeichnung). (B) - AE 1983.
+literature: CIL 02 (2. Aufl.) 05, 00878; Foto.
+comment: (B): Rodríguez Oliva - Atencia Páez: Z. 3: &lt;si> se&lt;r>(va); AE 1983: Z. 3: &lt;si>
+comment: se(rva); Rodríguez Oliva - Atencia Páez, AE 1983: Z. 4: IIII.
+comment: -
+connections: 
+person: 1
+name: Stercusia M. Aeli Aeliani Si. se.
+praenomen: 
+nomen: 
+cognoment: Stercusia
+supernomen: 
+filiation: 9
+tribus: 
+origo: 
+other: 
+gender: female
+relations: 
+status: slaves
+official positions: 
+occupation: 
+lifetime:years:: 53
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 2
+name: M. Aeli Aeliani Si.
+praenomen: M.
+nomen: Aelius
+cognoment: Aelianus
+supernomen: 
+filiation: 
+tribus: 
+origo: Singilensis*
+other: 
+gender: male
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: Stercusia / M(arci) Aeli Ael/iani Si(ngiliensis) se(rva) /
+A-Text: an(norum) LIII h(ic) s(ita) / e(st) s(it) t(ibi) t(erra)
+A-Text: l(evis)
+B-Text: STERCVSIA
+B-Text: M AELI AEL
+B-Text: IANI SI SE
+B-Text: AN LIII H S
+B-Text: E S T T L
+Alphabetical list of words in inscription: Aeli  
+                                         
+            Aeliani  
+                                         
+            LIII  
+                                         
+            Marci  
+                                         
+            Singiliensis  
+                                         
+            Stercusia  
+                                         
+            annorum  
+                                         
+            est  
+                                         
+            hic  
+                                         
+            levis  
+                                         
+            serva  
+                                         
+            sit  
+                                         
+            sita  
+                                         
+            terra  
+                                         
+            tibi

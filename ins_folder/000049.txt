@@ -1,0 +1,130 @@
+HD-Number: HD000049
+TM-Number: 
+Province: Roma
+Modern country: Italy
+Find Spot(ancient name): Roma
+Find Spot (modern name): Roma
+Region: Lazio
+Year of Find: 
+Find Spot (street, etc.): La Magliana
+Present location: Mentana, Lap. Zeri
+state of preservation: fragmentarisch
+decoration: 
+inscription-type: Boundary inscription
+inscription bearer: Cippus
+fields: A
+material: Travertin
+height: -87.0
+width: 70.0
+depth: 37.0
+height of inscribed field: 
+width of inscribed field: 
+letters size: 7-8
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): -54Datierung Jahr Ende
+date:specific:: D
+social,economic, leagal history: data available
+religion: 
+communal groups: ordo senatorius
+geography: 
+political communities: 
+military: 
+status of the EDH-version: corresponds to AE reading || checked with photo
+responsible individual: FERAUDI
+last update: 2011-03-17
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae communes
+punctuation: puncta triangularia (Spitze nach unten)
+literature: AE 1983, 0032.
+literature: G. Pisani Sartorio, in: G. Barbieri (Hrsg.), Il lapidario Zeri di
+literature: Mentana (Roma 1982) 1-3, Nr. 1; tav. 1. - AE 1983.
+literature: CIL 06, 40856; Foto.
+literature: CIL 01 (2. Aufl.) 02, 00766v.
+literature: CIL 01 (2. Aufl.) 02, 00766v add. p. 947.
+comment: Terminalcippus.
+connections: 
+person: 1
+name: M. Valerius M.f. M'n. Messal.
+praenomen: M.
+nomen: Valerius
+cognoment: Messalla*
+supernomen: 
+filiation: 6
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: senatorial order
+official positions: höhere Funktionen in der Verwaltung
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 2
+name: P. Serveilius C.f. Isauricus
+praenomen: P.
+nomen: Serveilius
+cognoment: Isauricus
+supernomen: 
+filiation: C.f.
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: senatorial order
+official positions: höhere Funktionen in der Verwaltung
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: M(arcus) Valerius M(arci) f(ilius) / M(ani) n(epos) Messal(la)
+A-Text: / P(ublius) Serveilius C(ai) f(ilius) / Isauricus / cens(ores)
+A-Text: / [e]x s(enatus) c(onsulto) termin(averunt)
+B-Text: M VALERIVS M F
+B-Text: M N MESSAL
+B-Text: P SERVEILIVS C F
+B-Text: ISAVRICVS
+B-Text: CENS
+B-Text: [ ]X S C TERMIN
+Alphabetical list of words in inscription: Cai  
+                                         
+            Isauricus  
+                                         
+            Mani  
+                                         
+            Marci  
+                                         
+            Marcus  
+                                         
+            Messalla  
+                                         
+            Publius  
+                                         
+            Serveilius  
+                                         
+            Valerius  
+                                         
+            censores  
+                                         
+            consulto  
+                                         
+            ex  
+                                         
+            filius  
+                                         
+            nepos  
+                                         
+            senatus  
+                                         
+            terminaverunt

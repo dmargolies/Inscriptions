@@ -1,0 +1,74 @@
+HD-Number: HD000081
+TM-Number: 
+Province: Hispania citerior
+Modern country: Portugal
+Find Spot(ancient name): 
+Find Spot (modern name): Briteiros
+Region: Braga
+Year of Find: 
+Find Spot (street, etc.): Kirchplatz, Kirche Sta. Leocádia
+Present location: Mus. Pio XII Braga
+state of preservation: fragmentarisch
+decoration: 
+inscription-type: Votive inscription?
+inscription bearer: Altar
+fields: I
+material: Granit
+height: -26.5
+width: 18.0
+depth: 11.5
+height of inscribed field: 12
+width of inscribed field: 15
+letters size: 2-2.8
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 1Datierung Jahr Ende– 
+ 300
+date:specific:: Y
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: NIQUET
+last update: 1997-07-22
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae communes
+punctuation: 
+literature: AE 1983, 0566.
+literature: L. Dos Santos - P. Le Roux - A. Tranoy, Inscrições romanas do
+literature: Museu Pio XII em Braga (Braga 1983) 16, Nr. 18; lám. 7,24 u. 7,25.
+literature: - AE.
+literature: L. Dos Santos - P. Le Roux - A. Tranoy, Bracara Augusta 37, 1983, 194;
+literature: lám. 7,24 u. 7,25. - AE.
+comment: Stein ist möglicherweise sekundär verwendet worden.
+comment: Lesung sehr unsicher wegen schlechten Erhaltungszustandes.
+connections: 
+A-Text: [---]I M[---]/[---]O RU[---] / L V S / VS ON
+B-Text: [   ]I M[   ]
+B-Text: [   ]O RV[   ]
+B-Text: L V S
+B-Text: VS ON
+Alphabetical list of words in inscription: -I  
+                                         
+            L  
+                                         
+            M--O  
+                                         
+            ON  
+                                         
+            RU-  
+                                         
+            S  
+                                         
+            V  
+                                         
+            VS

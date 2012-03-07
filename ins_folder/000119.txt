@@ -1,0 +1,103 @@
+HD-Number: HD000119
+TM-Number: 
+Province: Hispania citerior
+Modern country: Spain
+Find Spot(ancient name): Iluro, bei
+Find Spot (modern name): Cabrera de Mar
+Region: Cataluña
+Year of Find: 
+Find Spot (street, etc.): Can Modolell
+Present location: Mataró, Mus. Mun.
+state of preservation: 
+decoration: 
+inscription-type: Votive inscription
+inscription bearer: Altar
+fields: 
+material: Marmor, bläulich
+height: 10.5
+width: 7.0
+depth: 5.5
+height of inscribed field: 
+width of inscribed field: 
+letters size: 0.7-1.1
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 151Datierung Jahr Ende– 
+ 300
+date:specific:: 
+social,economic, leagal history: 
+religion: heidnisch
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: differs from AE reading || checked with photo
+responsible individual: FERAUDI
+last update: 2006-11-30
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: 
+punctuation: 
+literature: AE 1983, 0628. (B)
+literature: G. Fabre - M. Mayer - I. Rodà, Inscripcions romanes de Mataró i la
+literature: seva area (Mataró 1983) 83-88, Nr. 32; lám. 34; fig. 11 (Zeichnung).
+literature: - AE 1983.
+literature: IRC 1, 085; pl. 30, 85.
+literature: -
+comment: (B): Z. 4/5: keine Angabe des Zeilenfalls.
+connections: 
+person: 1
+name: L. Petreius Victor
+praenomen: L.
+nomen: Petreius
+cognoment: Victor
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: 
+relations: 
+status: 
+official positions: 
+occupation: J?
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: K(auti) d(eo) / L(ucius) Petre/ius Vic/tor ali/arius / d(eo)
+A-Text: K(auti) M(ithrae) // v(otum) s(olvit) l(ibens) m(erito)
+B-Text: K D
+B-Text: L PETRE
+B-Text: IVS VIC
+B-Text: TOR ALI
+B-Text: ARIVS
+B-Text: D K M
+B-Text: 
+B-Text: V S L M
+Alphabetical list of words in inscription: Kauti  
+                                         
+            Lucius  
+                                         
+            Mithrae  
+                                         
+            Petreius  
+                                         
+            Victor  
+                                         
+            aliarius  
+                                         
+            deo  
+                                         
+            libens  
+                                         
+            merito  
+                                         
+            solvit  
+                                         
+            votum

@@ -1,0 +1,95 @@
+HD-Number: HD000044
+TM-Number: 
+Province: Baetica
+Modern country: Spain
+Find Spot(ancient name): Igabrum, bei
+Find Spot (modern name): Cabra, bei
+Region: Córdoba
+Year of Find: -1975
+Find Spot (street, etc.): Pasada Valera
+Present location: Rathaus Doña Mencía, Mus. Historico
+state of preservation: fragmentarisch
+decoration: 
+inscription-type: Epitaph
+inscription bearer: Tabula
+fields: A
+material: Kalkstein, gelblich
+height: -35.0
+width: -34.0
+depth: 8.0
+height of inscribed field: 
+width of inscribed field: 
+letters size: 7
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 1Datierung Jahr Ende– 
+ 50
+date:specific:: Y
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: corresponds to AE reading || checked with photo
+responsible individual: GRAEF
+last update: 1999-04-15
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae quadratae/monumentales
+punctuation: puncta triangularia (Spitze nach oben)
+literature: AE 1983, 0539.
+literature: A.U. Stylow, Gerión 1, 1983, 291-292, Nr. 7; fig. 11. - AE 1983.
+literature: CIL 02 (2. Aufl.) 05, 00336.
+comment: 
+connections: 
+person: 1
+name: [- Corn?]elius [---]
+praenomen: 0
+nomen: Cornelius+?
+cognoment: 0
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 2
+name: [- Cor]nelius [---]
+praenomen: 0
+nomen: Cornelius+
+cognoment: 0
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: [- Corn?]elius [---] / [- Cor]nelius [---] / [&
+B-Text: [      ]ELIVS [   ]
+B-Text: [     ]NELIVS [   ]
+B-Text: [
+Alphabetical list of words in inscription: Cornelius  
+                                         
+            Cornelius?

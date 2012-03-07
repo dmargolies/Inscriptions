@@ -1,0 +1,162 @@
+HD-Number: HD000027
+TM-Number: 
+Province: Baetica
+Modern country: Spain
+Find Spot(ancient name): Italica
+Find Spot (modern name): Santiponce
+Region: Sevilla
+Year of Find: 
+Find Spot (street, etc.): 
+Present location: 
+state of preservation: fragmentarisch
+decoration: data available
+inscription-type: Votive inscription
+inscription bearer: Block
+fields: B
+material: Marmor
+height: 25.0
+width: 57.0
+depth: 
+height of inscribed field: 20
+width of inscribed field: 52
+letters size: 2.3-2
+ligature: S
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 118Datierung Jahr Ende– 
+ 200
+date:specific:: Y
+social,economic, leagal history: CDEG
+religion: ABC
+communal groups: 
+geography: BF
+political communities: B
+military: 
+status of the EDH-version: provisional work status
+responsible individual: GRAEF
+last update: 2011-06-16
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: 
+punctuation: ADE
+literature: AE 1983, 0519.
+literature: A. Blanco Freijeiro, BRAH 180, 1983, 2-7; fig. 1 u. 2. - AE 1983.
+literature: AE 1982, 0520.
+literature: P. Léon Alonso, in: Italica (Santiponce Sevilla). Excavaciones
+literature: arqueológicas en España 122 (Madrid 1982) 117, Nr. 1; lám. 12, 1.
+literature: (B) - AE 1982.
+comment: (B): Léon Alonso: Z. 1: Caec[ilianus].
+connections: 
+person: 1
+name: M. Cassius Serg. Caecili[anus]
+praenomen: M.
+nomen: Cassius
+cognoment: Caecilianus+
+supernomen: 
+filiation: 
+tribus: Sergia
+origo: 
+other: D
+gender: male
+relations: 
+status: decurial order, holders of higher local offices
+official positions: höhere Funktionen in der Gemeinde-/Lokalverwaltung
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 2
+name: Traiani
+praenomen: 
+nomen: 
+cognoment: Traianus
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: emperor / imperial household
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: M(arcus) Cassius Ser(gia) Caecili[anus] / flamen perpetuus
+A-Text: divi Traiani flaminalis provin[ciae] / Baeticae statuas quae
+A-Text: sunt in ordinem positae / n(umero) IIII ex argenti libris
+A-Text: centenis ob honorem IIvir(atus) / Genio coloniae
+A-Text: splendidissimae Italicensis posuit
+B-Text: M CASSIVS SER CAECILI[    ]
+B-Text: FLAMEN PERPETVVS DIVI TRAIANI FLAMINALIS PROVIN[    ]
+B-Text: BAETICAE STATVAS QVAE SVNT IN ORDINEM POSITAE
+B-Text: N IIII EX ARGENTI LIBRIS CENTENIS OB HONOREM IIVIR
+B-Text: GENIO COLONIAE SPLENDIDISSIMAE ITALICENSIS POSVIT
+Alphabetical list of words in inscription: Baeticae  
+                                         
+            Caecilianus  
+                                         
+            Cassius  
+                                         
+            Genio  
+                                         
+            IIII  
+                                         
+            IIviratus  
+                                         
+            Italicensis  
+                                         
+            Marcus  
+                                         
+            Sergia  
+                                         
+            Traiani  
+                                         
+            argenti  
+                                         
+            centenis  
+                                         
+            coloniae  
+                                         
+            divi  
+                                         
+            ex  
+                                         
+            flamen  
+                                         
+            flaminalis  
+                                         
+            honorem  
+                                         
+            in  
+                                         
+            libris  
+                                         
+            numero  
+                                         
+            ob  
+                                         
+            ordinem  
+                                         
+            perpetuus  
+                                         
+            positae  
+                                         
+            posuit  
+                                         
+            provinciae  
+                                         
+            quae  
+                                         
+            splendidissimae  
+                                         
+            statuas  
+                                         
+            sunt

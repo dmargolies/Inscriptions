@@ -1,0 +1,90 @@
+HD-Number: HD000122
+TM-Number: 
+Province: Hispania citerior
+Modern country: Spain
+Find Spot(ancient name): 
+Find Spot (modern name): Pujarnol, bei
+Region: Gerona
+Year of Find: 1980
+Find Spot (street, etc.): Villa Vilauba
+Present location: 
+state of preservation: 
+decoration: 
+inscription-type: Honorific inscription
+inscription bearer: Tabula
+fields: 
+material: 
+height: -13.0
+width: -27.0
+depth: 2.8
+height of inscribed field: 
+width of inscribed field: 
+letters size: 
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): -4Datierung Jahr Ende– 
+ 14
+date:specific:: 
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: PLATZ
+last update: 2009-10-12
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: BC
+punctuation: 
+literature: AE 1983, 0631. (B)
+literature: R.F. Jones, Antiquaries Journal 62, 1982, 273; pl. 37a. - AE 1983.
+literature: IRC 3, 007; pl. 7, 7.
+literature: IRC 5, p. 81-82.
+literature: HEp 02, 1990, 0401.
+literature: HEp 04, 1994, 0457.
+comment: Y: Adoption des Germanicus am 27. (28.?) 6. 4 v.Chr.; Tiberius noch
+comment: nicht Augustus.
+comment: (B): AE 1983: [... Dru]so Caesari / [Germanici Caesa]ris f[il(io) / ...].
+comment: (C): Aus Symmetriegründen ist die Inschrift eher Germanicus als
+comment: Drusus zuzuordnen.
+comment: Datierung: AE 1983: 23-30.
+connections: 
+person: 1
+name: [Germanic?]o Caesari [Ti. Caesa?]ris f[il.]
+praenomen: 
+nomen: Caesar
+cognoment: Germanicus+?
+supernomen: 
+filiation: 10
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: emperor / imperial household
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: [Germanic?]o Caesari / [Ti(beri) Caesa?]ris f[il(io)] / [&
+B-Text: [        ]O CAESARI
+B-Text: [        ]RIS F[  ]
+B-Text: [
+Alphabetical list of words in inscription: Caesari  
+                                         
+            Caesaris?  
+                                         
+            Germanico?  
+                                         
+            Tiberi  
+                                         
+            filio

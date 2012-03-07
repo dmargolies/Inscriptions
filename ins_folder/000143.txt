@@ -1,0 +1,91 @@
+HD-Number: HD000143
+TM-Number: 
+Province: Apulia et Calabria (Regio II)
+Modern country: Italy
+Find Spot(ancient name): Luceria, bei
+Find Spot (modern name): Lucera, bei
+Region: Foggia
+Year of Find: 
+Find Spot (street, etc.): Ager Lucerinus
+Present location: Lucera, Mus. Civ. „Giuseppe Fiorelli“
+state of preservation: mehrere Fragmente
+decoration: 
+inscription-type: Epitaph
+inscription bearer: Tabula
+fields: 
+material: Stein, lokal
+height: -30.3
+width: 27.2
+depth: 1.8
+height of inscribed field: 
+width of inscribed field: 
+letters size: 3.5-2.3
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 201Datierung Jahr Ende– 
+ 300
+date:specific:: Y
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: KREMPL
+last update: 1991-04-29
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae cursivae/actuariae
+punctuation: hedera
+literature: AE 1983, 0252.
+literature: M. Bàlice, ASP 34, 1981, 33, Nr. 42. - AE.
+comment: AE: [nept]is als Lesevariante für [fil]i(u)s vorgeschlagen.
+connections: 
+person: 1
+name: Statilio Sabiniano
+praenomen: 
+nomen: Statilius
+cognoment: Sabinianus
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: E
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 75
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: Statilio S/abiniano / q(ui) v(ixit) a(nnos) LXXV / [fil]i(u)s
+A-Text: b(ene) m(erenti)
+B-Text: STATILIO S
+B-Text: ABINIANO
+B-Text: Q V A LXXV
+B-Text: [   ]IS B M
+Alphabetical list of words in inscription: LXXV  
+                                         
+            Sabiniano  
+                                         
+            Statilio  
+                                         
+            annos  
+                                         
+            bene  
+                                         
+            filius  
+                                         
+            merenti  
+                                         
+            qui  
+                                         
+            vixit

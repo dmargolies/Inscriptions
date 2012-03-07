@@ -1,0 +1,85 @@
+HD-Number: HD000002
+TM-Number: 
+Province: Roma
+Modern country: Italy
+Find Spot(ancient name): Roma
+Find Spot (modern name): Roma
+Region: Lazio
+Year of Find: 1937
+Find Spot (street, etc.): Via Nomentana, S. Alessandro, Kirche
+Present location: 
+state of preservation: 
+decoration: 
+inscription-type: Epitaph
+inscription bearer: Tabula
+fields: 
+material: Marmor
+height: 28.0
+width: 85.0
+depth: 
+height of inscribed field: 
+width of inscribed field: 
+letters size: 4
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 51Datierung Jahr Ende– 
+ 200
+date:specific:: Y
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: corresponds to AE reading || no image
+responsible individual: FERAUDI
+last update: 2011-04-06
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: 
+punctuation: 
+literature: AE 1983, 0080. (A)
+literature: A. Ferrua, RAL 36, 1981, 109, Nr. 7. - AE 1983.
+comment: AE 1983: Breite: 35 cm.
+connections: 
+person: 1
+name: C. Sextius Paris
+praenomen: C.
+nomen: Sextius
+cognoment: Paris
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 70
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: C(aius) Sextius Paris / qui vixit / annis LXX
+B-Text: C SEXTIVS PARIS
+B-Text: QVI VIXIT
+B-Text: ANNIS LXX
+Alphabetical list of words in inscription: Caius  
+                                         
+            LXX  
+                                         
+            Paris  
+                                         
+            Sextius  
+                                         
+            annis  
+                                         
+            qui  
+                                         
+            vixit

@@ -1,0 +1,145 @@
+HD-Number: HD000106
+TM-Number: 
+Province: Hispania citerior
+Modern country: Spain
+Find Spot(ancient name): 
+Find Spot (modern name): S. Quirze Safaja
+Region: Cataluña
+Year of Find: 1945
+Find Spot (street, etc.): S. Pere de Bertí, Kirche
+Present location: Vic, Mus. Episcopal
+state of preservation: 
+decoration: 
+inscription-type: Epitaph
+inscription bearer: Tabula
+fields: 
+material: 
+height: -27.5
+width: -21.2
+depth: 2.3
+height of inscribed field: 
+width of inscribed field: 
+letters size: 2-3.3
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 171Datierung Jahr Ende– 
+ 230
+date:specific:: 
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: corresponds to AE reading || checked with photo
+responsible individual: FERAUDI
+last update: 2006-12-08
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: 
+punctuation: 
+literature: AE 1983, 0612.
+literature: G. Fabre - M. Mayer - I. Rodà, Arrahona 13, 1982, 36-37; lám. 2.
+literature: - AE 1983.
+literature: I. Rodà de Llanza, Catàleg de l'epigrafia i de l'escultura
+literature: clàssiques del museu Episcopal de Vic (Vic 1989) 32, Nr. 15; Foto.
+literature: IRC 1, 063; pl. 22, 63.
+comment: -
+comment: -
+connections: 
+person: 1
+name: P. Obstorius P.[f.? ---]
+praenomen: P.
+nomen: Obstorius
+cognoment: 0
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: 
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 2
+name: Obstoria
+praenomen: 
+nomen: Obstoria
+cognoment: 
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: 
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: D(is) M(anibus) [s(acrum)] / P(ublius) Obstorius P(ubli)
+A-Text: [f(ilius)? ---] / vix(it) ann(os) VI m(enses) [--- d(ies) ---]
+A-Text: / Obstoria filio p[iissimo] / vix(it) ann(os) XXVIII [post
+A-Text: mortem] / fili sui dieb(us) VI[---]
+B-Text: D M [ ]
+B-Text: P OBSTORIVS P [     ]
+B-Text: VIX ANN VI M [         ]
+B-Text: OBSTORIA FILIO P[       ]
+B-Text: VIX ANN XXVIII [     MORTEM]
+B-Text: FILI SVI DIEB VI[   ]
+Alphabetical list of words in inscription: Dis  
+                                         
+            Manibus  
+                                         
+            Obstoria  
+                                         
+            Obstorius  
+                                         
+            Publi  
+                                         
+            Publius  
+                                         
+            VI  
+                                         
+            VI-  
+                                         
+            XXVIII  
+                                         
+            annos  
+                                         
+            diebus  
+                                         
+            dies  
+                                         
+            fili  
+                                         
+            filio  
+                                         
+            filius?  
+                                         
+            menses  
+                                         
+            mortem  
+                                         
+            piissimo  
+                                         
+            post  
+                                         
+            sacrum  
+                                         
+            sui  
+                                         
+            vixit

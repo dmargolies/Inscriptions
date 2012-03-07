@@ -1,0 +1,97 @@
+HD-Number: HD000051
+TM-Number: 
+Province: Alpes Maritimae
+Modern country: France
+Find Spot(ancient name): Salinae
+Find Spot (modern name): Castellane
+Region: Alpes-de-Haute-Provence
+Year of Find: 
+Find Spot (street, etc.): Kirche Notre Dame du Plan, bei
+Present location: Kirche Notre Dame du Plan, bei
+state of preservation: fragmentarisch
+decoration: 
+inscription-type: Epitaph
+inscription bearer: Block
+fields: Y
+material: 
+height: -49.0
+width: 45.0
+depth: 42.0
+height of inscribed field: 
+width of inscribed field: 
+letters size: 3.8
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 101Datierung Jahr Ende– 
+ 300
+date:specific:: Y
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: GRAEF
+last update: 2011-09-08
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: 
+punctuation: 
+literature: AE 1983, 0646.
+literature: ILGN 011. (B)
+literature: -
+comment: Neulesung der Inschrift von G. Bailhache nach den papiers Henri
+comment: Rolland.
+comment: (B): Z. 1: [---]io; Z. 2: nobilissimo; Z. 3: vixit;
+comment: Z. 4: [nos ---]m III.
+connections: 
+person: 1
+name: [---]atio Severo
+praenomen: 0
+nomen: [---]atius
+cognoment: Severus
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 6
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 5
+lifetime:months:: 2
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: [------] / [---]atio Severo / filio piissimo / q(ui) vixsit(!)
+A-Text: an(nos) qu(i)nque m(enses) II
+B-Text: [      ]
+B-Text: [   ]ATIO SEVERO
+B-Text: FILIO PIISSIMO
+B-Text: Q VIXSIT AN QVNQVE M II
+Alphabetical list of words in inscription: -atio  
+                                         
+            II  
+                                         
+            Severo  
+                                         
+            annos  
+                                         
+            filio  
+                                         
+            menses  
+                                         
+            piissimo  
+                                         
+            qui  
+                                         
+            quinque  
+                                         
+            vixsit!

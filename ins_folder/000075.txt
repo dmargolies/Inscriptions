@@ -1,0 +1,124 @@
+HD-Number: HD000075
+TM-Number: 
+Province: Hispania citerior
+Modern country: Portugal
+Find Spot(ancient name): 
+Find Spot (modern name): Giela
+Region: Viana do Castelo
+Year of Find: 
+Find Spot (street, etc.): 
+Present location: Mus. Pio XII Braga
+state of preservation: vollständig
+decoration: data available
+inscription-type: Votive inscription
+inscription bearer: Altar
+fields: A
+material: Granit
+height: 75.0
+width: 33.0
+depth: 26.5
+height of inscribed field: 26
+width of inscribed field: 23
+letters size: 3-4
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 1Datierung Jahr Ende– 
+ 300
+date:specific:: Y
+social,economic, leagal history: 
+religion: C
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: NIQUET
+last update: 1997-08-27
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae communes
+punctuation: 
+literature: AE 1983, 0564. (B)
+literature: L. Dos Santos - P. Le Roux - A. Tranoy, Inscrições romanas do
+literature: Museu Pio XII em Braga (Braga 1983) 15, Nr. 16; lám. 6,21 u. 6,22.
+literature: L. Dos Santos - P. Le Roux - A. Tranoy, Bracara Augusta 37, 1983, 193,
+literature: Nr. 16; lám. 6,21 u. 6,22. (B) - AE 1983.
+literature: AE 1986, 0385.
+literature: A. Tranoy, Rev. de Guimarães 94, 1984, 443-449. - AE 1986.
+literature: (unzugänglich).
+comment: Geschlecht der Gottheit unsicher: Auflösung Z. 1: D(omino) s(ancto)
+comment: oder D(ominae) s(anctae).
+comment: (B): Z.2: Rufus statt La(---) Rufus.
+connections: 
+person: 1
+name: Rufus Rufini
+praenomen: 
+nomen: 
+cognoment: Rufus
+supernomen: 
+filiation: 1
+tribus: 
+origo: 
+other: 
+gender: male
+relations: G
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 2
+name: Rufini
+praenomen: 
+nomen: 
+cognoment: Rufinus
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: E
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: D(omino?) s(ancto?) K(---) G(---) L(---) / La(---) Rufus /
+A-Text: Rufini a(ram) / p(osuit) vo(tum) so(lvit)
+B-Text: D S K G L
+B-Text: LA RVFVS
+B-Text: RVFINI A
+B-Text: P VO SO
+Alphabetical list of words in inscription: Domino?  
+                                         
+            G-  
+                                         
+            K-  
+                                         
+            L-  
+                                         
+            La-  
+                                         
+            Rufini  
+                                         
+            Rufus  
+                                         
+            aram  
+                                         
+            posuit  
+                                         
+            sancto?  
+                                         
+            solvit  
+                                         
+            votum

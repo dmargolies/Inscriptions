@@ -1,0 +1,90 @@
+HD-Number: HD000015
+TM-Number: 
+Province: Hispania citerior
+Modern country: Portugal
+Find Spot(ancient name): 
+Find Spot (modern name): Alvarães
+Region: Viana do Castelo
+Year of Find: 
+Find Spot (street, etc.): Kirche
+Present location: Mus. Pio XII Braga
+state of preservation: vollständig
+decoration: 
+inscription-type: Votive inscription
+inscription bearer: Altar
+fields: A
+material: Granit
+height: 78.0
+width: 36.0
+depth: 33.0
+height of inscribed field: 31
+width of inscribed field: 23
+letters size: 4-2
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 1Datierung Jahr Ende– 
+ 300
+date:specific:: Y
+social,economic, leagal history: 
+religion: C
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: KREMPL
+last update: 1990-11-07
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae communes
+punctuation: 
+literature: AE 1983, 0563.
+literature: L. Dos Santos - P. Le Roux - A. Tranoy, Inscrições romanas do
+literature: Museu Pio XII em Braga (Braga 1983) 14-15, Nr. 15; lám. 7,23.
+literature: L. Dos Santos - P. Le Roux - A. Tranoy, Bracara Augusta 37, 1983, 192-
+literature: 193, Nr. 15; lám. 7,23. - AE.
+comment: 
+connections: 
+person: 1
+name: Val. Rufa
+praenomen: 
+nomen: Valeria*
+cognoment: Rufa
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: female
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: [---]ivo / Vestero / Val(eria) Rufa / ex voto / posuit
+B-Text: [   ]IVO
+B-Text: VESTERO
+B-Text: VAL RVFA
+B-Text: EX VOTO
+B-Text: POSVIT
+Alphabetical list of words in inscription: -ivo  
+                                         
+            Rufa  
+                                         
+            Valeria  
+                                         
+            Vestero  
+                                         
+            ex  
+                                         
+            posuit  
+                                         
+            voto

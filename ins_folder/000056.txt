@@ -1,0 +1,63 @@
+HD-Number: HD000056
+TM-Number: 
+Province: Hispania citerior
+Modern country: Portugal
+Find Spot(ancient name): 
+Find Spot (modern name): Sta. Cruz de Lima
+Region: Viana do Castelo
+Year of Find: 
+Find Spot (street, etc.): Kirchplatz, sek. verwendet
+Present location: Mus. Pio XII Braga
+state of preservation: fragmentarisch
+decoration: 
+inscription-type: Votive inscription
+inscription bearer: Altar
+fields: 
+material: Granit
+height: -37.0
+width: -30.0
+depth: 29.0
+height of inscribed field: -8
+width of inscribed field: -24
+letters size: 2.5-3.5
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 1Datierung Jahr Ende– 
+ 200
+date:specific:: Y
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: NIQUET
+last update: 1997-08-10
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: 
+punctuation: 
+literature: AE 1983, 0551. (BC)
+literature: L. Dos Santos - P. Le Roux - A. Tranoy, Inscrições romanas do
+literature: Museu Pio XII em Braga (Braga 1983) 7-8, Nr. 3; lám. 1,3. (BC)
+literature: L. Dos Santos - P. Le Roux - A. Tranoy, Bracara Augusta 37, 1983,
+literature: 185-186, Nr. 3; lám. 1,3. (BC) - AE.
+comment: (BC): Lesung und Kommentar falsch: [E]x of(ficina) Elp[idi?] //
+comment: [I(ovi) O(ptimo)] M[ax?(imo)] / [---]; es handelt sich wohl um
+comment: einheimischen Personen-, evtl. auch Göttername.
+comment: Eingabe des Textes nach Lesung G. Alföldy.
+connections: 
+A-Text: [-]XO(?) FELI[---] / [-]M[&
+B-Text: [ ]XO FELI[   ]
+B-Text: [ ]M[
+Alphabetical list of words in inscription: -M  
+                                         
+            -XO?  
+                                         
+            FELI-

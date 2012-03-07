@@ -1,0 +1,103 @@
+HD-Number: HD000121
+TM-Number: 
+Province: Baetica
+Modern country: Spain
+Find Spot(ancient name): Sabora, bei
+Find Spot (modern name): Cañete la Real
+Region: Málaga
+Year of Find: 
+Find Spot (street, etc.): calle Iglesia Baja 11, vermauert
+Present location: Cañete la Real, Calle Iglesia Baja 11
+state of preservation: fragmentarisch
+decoration: 
+inscription-type: Epitaph
+inscription bearer: Stele
+fields: B
+material: Kalkstein
+height: -81.0
+width: 53.0
+depth: 
+height of inscribed field: 
+width of inscribed field: 47
+letters size: 5-5.5
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 51Datierung Jahr Ende– 
+ 150
+date:specific:: Y
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: differs from AE reading || checked with photo
+responsible individual: GRAEF
+last update: 2011-06-10
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: 
+punctuation: interpunctio omissa
+literature: AE 1983, 0526. (B)
+literature: P. Rodríguez Oliva - R. Atencia Páez, BSEAA 49, 1983, 155-156,
+literature: Nr. 5; lám. 3,1; lám. 5, 2 (Zeichnung). - AE 1983.
+literature: CIL 02 (2. Aufl.) 05, 00884.
+comment: (B): Rodríguez Oliva - Atencia Paéz, AE 1983: Z. 1: Nu[me]ria; Z. 2:
+comment: [---]XX[---].
+connections: 
+person: 1
+name: Num[e]ria Optata
+praenomen: 
+nomen: Numeria+
+cognoment: Optata
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: female
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: -20
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: Num[e]ria Optata / ann(orum) [X]XX[---] p(ia) in / su[is]
+A-Text: h(ic) s(ita) e(st) s(it) t(ibi) [t(erra)] l(evis)
+B-Text: NVM[ ]RIA OPTATA
+B-Text: ANN [ ]XX[   ] P IN
+B-Text: SV[  ] H S E S T [ ] L
+Alphabetical list of words in inscription: Numeria  
+                                         
+            Optata  
+                                         
+            XXX-  
+                                         
+            annorum  
+                                         
+            est  
+                                         
+            hic  
+                                         
+            in  
+                                         
+            levis  
+                                         
+            pia  
+                                         
+            sit  
+                                         
+            sita  
+                                         
+            suis  
+                                         
+            terra  
+                                         
+            tibi

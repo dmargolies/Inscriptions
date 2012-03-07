@@ -1,0 +1,98 @@
+HD-Number: HD000003
+TM-Number: 
+Province: Baetica
+Modern country: Spain
+Find Spot(ancient name): 
+Find Spot (modern name): Tomares
+Region: Sevilla
+Year of Find: -1975
+Find Spot (street, etc.): 
+Present location: Sevilla, Privatbesitz
+state of preservation: fragmentarisch
+decoration: 
+inscription-type: Honorific inscription
+inscription bearer: Statue base
+fields: A
+material: Marmor
+height: -37.0
+width: -34.0
+depth: -12.0
+height of inscribed field: 
+width of inscribed field: 
+letters size: 4.5-3
+ligature: S
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 131Datierung Jahr Ende– 
+ 170
+date:specific:: Y
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: FERAUDI
+last update: 2006-08-31
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae quadratae/monumentales
+punctuation: 
+literature: AE 1983, 0518. (B)
+literature: J. González, ZPE 52, 1983, 172-173; Taf. 5b. (B) - AE.
+comment: (B): [S]isenna ist falscher Kasus; folgende Ergänzung notwendig:
+comment: [S]isenna[e].
+comment: Y: Text bezieht sich eher auf P. Mummius P.f. Sisenna Rutilianus (cos.
+comment: suff. 146) als auf dessen Vater P. Mummius Sisenna (cos. ord. 133).
+comment: Die Statuenbasis war in einem Gebäude vermauert.
+connections: 
+person: 1
+name: [P. M]ummio [P.f. Gal. S]isenna[e Rutiliano]
+praenomen: P.+
+nomen: Mummius+
+cognoment: Sisenna+ Rutilianus+
+supernomen: 
+filiation: P.+f.+
+tribus: Galeria+
+origo: 
+other: A
+gender: male
+relations: 
+status: senatorial order
+official positions: höhere Funktionen in der Verwaltung
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: [P(ublio) M]ummio [P(ubli) f(ilio)] / [Gal(eria) S]isenna[e
+A-Text: Ru]/[tiliano] Xv[ir(o) stli]/[tibus iudicandis ---] / [&
+B-Text: [   ]VMMIO [   ]
+B-Text: [     ]ISENNA[  RV]
+B-Text: [TILIANO] XV[IR STLI]
+B-Text: [TIBVS IVDICANDIS    ]
+B-Text: [
+Alphabetical list of words in inscription: Galeria  
+                                         
+            Mummio  
+                                         
+            Publi  
+                                         
+            Publio  
+                                         
+            Rutiliano  
+                                         
+            Sisennae  
+                                         
+            Xviro  
+                                         
+            filio  
+                                         
+            iudicandis  
+                                         
+            stlitibus

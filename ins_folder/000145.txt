@@ -1,0 +1,106 @@
+HD-Number: HD000145
+TM-Number: 
+Province: Lusitania
+Modern country: Spain
+Find Spot(ancient name): Emerita Augusta
+Find Spot (modern name): Mérida
+Region: Badajoz
+Year of Find: 
+Find Spot (street, etc.): 
+Present location: Mus. Granollers
+state of preservation: fragmentarisch
+decoration: 
+inscription-type: Epitaph
+inscription bearer: Tabula
+fields: 
+material: Kalkstein
+height: -11.0
+width: -14.0
+depth: 3.0
+height of inscribed field: 
+width of inscribed field: 
+letters size: 2.6-3.3
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 1Datierung Jahr Ende– 
+ 100
+date:specific:: Y
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: NIQUET
+last update: 1997-08-14
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae communes
+punctuation: uncharacteristisch
+literature: AE 1983, 0614. (AB)
+literature: G. Fabre - M. Mayer - I. Rodà, Ampurias 44, 1982, 209-210, Nr. 17;
+literature: fig. 20. - AE.
+comment: (A): Inschrift unter Tarraconensis eingeordnet.
+comment: (B): AE: Z. 3: VIIII statt VIII.
+comment: Circius als nomen gentile auch in Córdoba belegt, cf. CIL 2, 2268.
+comment: Z. 3: VIII: wegen fragmentarischen Erhaltungszustandes nicht sicher zu
+comment: entscheiden, ob Angabe der Lebensmonate oder Lebenstage.
+connections: 
+person: 1
+name: [---] Circius [---]
+praenomen: 0
+nomen: Circius
+cognoment: 0
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 2
+name: [Qu?]arto
+praenomen: 0
+nomen: 0
+cognoment: Quartus+?
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: $] Circius [---] / [--- Qu?]arto an(norum) [---] / [---] VIII
+A-Text: C[&
+B-Text: ] CIRCIVS [   ]
+B-Text: [      ]ARTO AN [   ]
+B-Text: [   ] VIII C[
+Alphabetical list of words in inscription: C  
+                                         
+            Circius  
+                                         
+            Quarto?  
+                                         
+            VIII  
+                                         
+            annorum

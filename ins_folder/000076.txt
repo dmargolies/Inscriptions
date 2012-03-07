@@ -1,0 +1,157 @@
+HD-Number: HD000076
+TM-Number: 
+Province: Roma
+Modern country: Italy
+Find Spot(ancient name): Roma
+Find Spot (modern name): Roma
+Region: Lazio
+Year of Find: 
+Find Spot (street, etc.): Via Labicana, Friedhof der equites singulares
+Present location: Mentana, Privatbesitz
+state of preservation: fragmentarisch
+decoration: 
+inscription-type: Epitaph
+inscription bearer: Tabula
+fields: B
+material: Marmor
+height: -43.0
+width: -30.0
+depth: 
+height of inscribed field: 
+width of inscribed field: 
+letters size: 4
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 201Datierung Jahr Ende– 
+ 300
+date:specific:: Y
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: data available
+political communities: 
+military: data available
+status of the EDH-version: corresponds to AE reading || checked with photo
+responsible individual: FERAUDI
+last update: 2011-04-06
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae quadratae/monumentales
+punctuation: puncta triangularia (Spitze nach unten)
+literature: AE 1983, 0055.
+literature: L. Polverini, in: G. Barbieri (Hrsg.), Il lapidario Zeri di Mentana
+literature: (Roma 1982) 99-100, Nr. 42; tav. 38,2. - AE 1983.
+comment: 
+connections: 
+person: 1
+name: Divius Tau[rus] n. Bad[a(v)us](!)
+praenomen: 
+nomen: Divius
+cognoment: Taurus+
+supernomen: 
+filiation: 
+tribus: 
+origo: natione Batavus+
+other: 
+gender: male
+relations: 
+status: military personnel
+official positions: 
+occupation: 
+lifetime:years:: 35
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 2
+name: R[---] Sancto
+praenomen: 
+nomen: R[---]
+cognoment: Sanctus
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 3
+name: [---]
+praenomen: 0
+nomen: 0
+cognoment: 0
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: 
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: D(is) [M(anibus)] / Divius Tau[rus eq(ues) sing(ularis)] /
+A-Text: imp(eratoris) n(ostri) n(atione) Bad[a(v)us(!) vix(it)] /
+A-Text: ann(os) XXXV st[ip(endiorum) ---] / curantes(!) R[---] /
+A-Text: Sancto et [---] / f(aciendum) [c(uraverunt)?]
+B-Text: D [ ]
+B-Text: DIVIVS TAV[           ]
+B-Text: IMP N N BAD[       ]
+B-Text: ANN XXXV ST[      ]
+B-Text: CVRANTES R[   ]
+B-Text: SANCTO ET [   ]
+B-Text: F [ ]
+Alphabetical list of words in inscription: Badavus!  
+                                         
+            Dis  
+                                         
+            Divius  
+                                         
+            Manibus  
+                                         
+            R-  
+                                         
+            Sancto  
+                                         
+            Taurus  
+                                         
+            XXXV  
+                                         
+            annos  
+                                         
+            curantes!  
+                                         
+            curaverunt?  
+                                         
+            eques  
+                                         
+            et  
+                                         
+            faciendum  
+                                         
+            imperatoris  
+                                         
+            natione  
+                                         
+            nostri  
+                                         
+            singularis  
+                                         
+            stipendiorum  
+                                         
+            vixit

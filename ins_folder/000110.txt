@@ -1,0 +1,127 @@
+HD-Number: HD000110
+TM-Number: 
+Province: Latium et Campania (Regio I)
+Modern country: Italy
+Find Spot(ancient name): Castrimoenium
+Find Spot (modern name): Marino
+Region: Roma
+Year of Find: 
+Find Spot (street, etc.): 
+Present location: 
+state of preservation: vollständig
+decoration: data available
+inscription-type: Epitaph
+inscription bearer: Stele
+fields: A
+material: Marmor
+height: 76.0
+width: 24.0
+depth: 
+height of inscribed field: 
+width of inscribed field: 
+letters size: 
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 101Datierung Jahr Ende– 
+ 300
+date:specific:: Y
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: GRAEF
+last update: 1998-07-13
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae communes
+punctuation: puncta triangularia (Spitze nach unten)
+literature: AE 1983, 0175.
+literature: AE 1976, 0132.
+literature: M. Humar, ArchClass 27, 1975, 26-27, Nr. 2; tav. 7,2. - AE 1976. 1983.
+comment: (C): Datierung: 2. Jh.
+connections: 
+person: 1
+name: C. Cassius
+praenomen: C.
+nomen: Cassius
+cognoment: 
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: E
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 2
+name: Saturnino
+praenomen: 
+nomen: 
+cognoment: Saturninus
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: G
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 1
+lifetime:months:: 6
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: D(is) M(anibus) / C(aius) Cassius / Saturni/no qui vi(xit) /
+A-Text: an(no) uno / me(nsibus) VI die(bus) / VIIII fecit / pater
+B-Text: D M
+B-Text: C CASSIVS
+B-Text: SATVRNI
+B-Text: NO QVI VI
+B-Text: AN VNO
+B-Text: ME VI DIE
+B-Text: VIIII FECIT
+B-Text: PATER
+Alphabetical list of words in inscription: Caius  
+                                         
+            Cassius  
+                                         
+            Dis  
+                                         
+            Manibus  
+                                         
+            Saturnino  
+                                         
+            VI  
+                                         
+            VIIII  
+                                         
+            anno  
+                                         
+            diebus  
+                                         
+            fecit  
+                                         
+            mensibus  
+                                         
+            pater  
+                                         
+            qui  
+                                         
+            uno  
+                                         
+            vixit

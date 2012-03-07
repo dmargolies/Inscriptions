@@ -1,0 +1,109 @@
+HD-Number: HD000038
+TM-Number: 
+Province: Baetica
+Modern country: Spain
+Find Spot(ancient name): 
+Find Spot (modern name): Doña Mencía, bei
+Region: Córdoba
+Year of Find: 1971
+Find Spot (street, etc.): camino de Metedores, bei
+Present location: Rathaus Doña Mencía, Mus. Historico
+state of preservation: fragmentarisch
+decoration: 
+inscription-type: Epitaph
+inscription bearer: Tabula
+fields: A
+material: Marmor
+height: 19.5
+width: -14.0
+depth: 2.5
+height of inscribed field: 
+width of inscribed field: 
+letters size: 3.5-2
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 151Datierung Jahr Ende– 
+ 200
+date:specific:: Y
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: differs from AE reading || checked with photo
+responsible individual: GRAEF
+last update: 2011-06-10
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: vorgezeichnete Hilfslinien
+punctuation: AD
+literature: AE 1983, 0537. (B)
+literature: A.U. Stylow, Gerión 1, 1983, 287-289, Nr. 5; fig. 9. - AE 1983.
+literature: CIL 02 (2. Aufl.) 05, 00345.
+comment: Vorgezeichnete Hilfslinien.
+comment: Hedera in Z. 1.
+comment: (B): AE 1983: Z.3: ann(orum).
+connections: 
+person: 1
+name: Calpurnia [---]
+praenomen: 
+nomen: Calpurnia
+cognoment: 0
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: female
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: -20
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: D(is) M(anibus) [s(acrum)] / Calpurnia [---] / annor(um) XX
+A-Text: [--- pia] / in suis h(ic) [s(ita) e(st) s(it) t(ibi) t(erra)
+A-Text: l(evis)]
+B-Text: D M [ ]
+B-Text: CALPVRNIA [   ]
+B-Text: ANNOR XX [       ]
+B-Text: IN SVIS H [          L]
+Alphabetical list of words in inscription: Calpurnia  
+                                         
+            Dis  
+                                         
+            Manibus  
+                                         
+            XX  
+                                         
+            annorum  
+                                         
+            est  
+                                         
+            hic  
+                                         
+            in  
+                                         
+            levis  
+                                         
+            pia  
+                                         
+            sacrum  
+                                         
+            sit  
+                                         
+            sita  
+                                         
+            suis  
+                                         
+            terra  
+                                         
+            tibi

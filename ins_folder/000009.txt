@@ -1,0 +1,53 @@
+HD-Number: HD000009
+TM-Number: 
+Province: Britannia
+Modern country: United Kingdom
+Find Spot(ancient name): Aquae Sulis
+Find Spot (modern name): Bath
+Region: Avon
+Year of Find: 1979
+Find Spot (street, etc.): Römisches Bad
+Present location: 
+state of preservation: vollständig
+decoration: 
+inscription-type: Defixio
+inscription bearer: Tessera
+fields: A
+material: Blei-Zinn
+height: 6.5
+width: 5.2
+depth: 
+height of inscribed field: 
+width of inscribed field: 
+letters size: 
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 101Datierung Jahr Ende– 
+ 400
+date:specific:: Y
+social,economic, leagal history: 
+religion: H?
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: FERAUDI
+last update: 2003-12-09
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae communes
+punctuation: interpunctio omissa
+literature: AE 1983, 0632.
+literature: M.W.C. Hassall - R.S.O. Tomlin, Britannia 14, 1983, 336, Nr. 2;
+literature: fig. 32 (Zeichnung). - AE.
+comment: 
+connections: 
+A-Text: ABCDEFX
+B-Text: ABCDEFX
+Alphabetical list of words in inscription: ABCDEFX

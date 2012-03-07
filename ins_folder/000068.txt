@@ -1,0 +1,87 @@
+HD-Number: HD000068
+TM-Number: 
+Province: Hispania citerior
+Modern country: Portugal
+Find Spot(ancient name): 
+Find Spot (modern name): Castelo de Neiva
+Region: Viana do Castelo
+Year of Find: 
+Find Spot (street, etc.): Pfarrkirche
+Present location: Mus. Pio XII Braga
+state of preservation: fragmentarisch
+decoration: data available
+inscription-type: Votive inscription
+inscription bearer: Altar
+fields: A
+material: Granit
+height: 68.3
+width: 27.5
+depth: 25.0
+height of inscribed field: 27
+width of inscribed field: 21
+letters size: 4-4.5
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 1Datierung Jahr Ende– 
+ 200
+date:specific:: Y
+social,economic, leagal history: 
+religion: B
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: NIQUET
+last update: 1997-08-23
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae communes
+punctuation: puncta triangularia (Spitze nach unten)?
+literature: AE 1983, 0555.
+literature: L. Dos Santos - P. Le Roux - A. Tranoy, Inscrições romanas do
+literature: Museu Pio XII em Braga (Braga 1983) 10, Nr. 7; lám. 3,7.
+literature: L. Dos Santos - P. Le Roux - A. Tranoy, Bracara Augusta 37, 1983, 188,
+literature: Nr. 7; lám. 3,7. - AE.
+comment: Der Altar wurde oben zurechtgeschnitten.
+comment: Z. 3: Interpunktion zwischen LA und RV; es gibt aber keine Parallele
+comment: für die Auflösung La(ribus) ru(ralibus.
+connections: 
+person: 1
+name: Val. Ruf.
+praenomen: 
+nomen: Valerius*
+cognoment: Rufus*
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: Val(erius) / Ruf(us) / Lar(ibus) V(ialibus) / p(osuit)
+B-Text: VAL
+B-Text: RVF
+B-Text: LAR V
+B-Text: P
+Alphabetical list of words in inscription: Laribus  
+                                         
+            Rufus  
+                                         
+            Valerius  
+                                         
+            Vialibus  
+                                         
+            posuit

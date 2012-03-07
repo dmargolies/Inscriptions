@@ -1,0 +1,127 @@
+HD-Number: HD000115
+TM-Number: 
+Province: Baetica
+Modern country: Spain
+Find Spot(ancient name): Salpensa
+Find Spot (modern name): Utrera
+Region: Sevilla
+Year of Find: 
+Find Spot (street, etc.): 
+Present location: Utrera, Privatbesitz
+state of preservation: fragmentarisch
+decoration: 
+inscription-type: Military diploma
+inscription bearer: Tabula
+fields: I
+material: Bronze
+height: -8.0
+width: -5.0
+depth: 0.2
+height of inscribed field: 
+width of inscribed field: 
+letters size: 0.4
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 41Datierung Jahr Ende– 
+ 90
+date:specific:: Y
+social,economic, leagal history: FK
+religion: B
+communal groups: 
+geography: F
+political communities: A
+military: 
+status of the EDH-version: provisional work status
+responsible individual: FERAUDI
+last update: 2006-08-31
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: 
+punctuation: 
+literature: AE 1983, 0523. (A)
+literature: J. González, Faventia 5, 1983, 91-95; fig. 1. - AE.
+literature: AE 1993, 1006.
+comment: Y: terminus ante quem: 88-90 wegen Anbringungsortes des Diploms:
+comment: Kapitol.
+comment: (A): Herkunft des Diploms: Utrera.
+connections: 
+person: 1
+name: M. Attius Lo[nginus?]
+praenomen: M.
+nomen: Attius
+cognoment: Longinus+?
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: $]STIG(?) / [---]VIIII EX ER(?) / [---]niae / [descriptum et
+A-Text: recognitum e]x tabula ae/[nea quae fixa est Romae in]
+A-Text: Capitolio / [---]teriore // t(abula) II(?) [---] / M(arcus)
+A-Text: Attius Lo[nginus? &
+B-Text: ]STIG
+B-Text: [   ]VIIII EX ER
+B-Text: [   ]NIAE
+B-Text: [              RECOGNITVM E]X TABVLA AE
+B-Text: [NEA QVAE FIXA EST ROMAE IN] CAPITOLIO
+B-Text: [   ]TERIORE
+B-Text: 
+B-Text: T II [   ]
+B-Text: M ATTIVS LO[
+Alphabetical list of words in inscription: -VIIII  
+                                         
+            -niae  
+                                         
+            -teriore  
+                                         
+            Attius  
+                                         
+            Capitolio  
+                                         
+            ER?  
+                                         
+            EX  
+                                         
+            II?  
+                                         
+            Longinus?  
+                                         
+            Marcus  
+                                         
+            Romae  
+                                         
+            STIG?  
+                                         
+            aenea  
+                                         
+            descriptum  
+                                         
+            est  
+                                         
+            et  
+                                         
+            ex  
+                                         
+            fixa  
+                                         
+            in  
+                                         
+            quae  
+                                         
+            recognitum  
+                                         
+            tabula

@@ -1,0 +1,58 @@
+HD-Number: HD000077
+TM-Number: 
+Province: Hispania citerior
+Modern country: Portugal
+Find Spot(ancient name): Bracara Augusta
+Find Spot (modern name): Braga
+Region: Braga
+Year of Find: 
+Find Spot (street, etc.): Seminário do Campo de Santiago, muro da cerca, sek. verb.
+Present location: Mus. Pio XII Braga
+state of preservation: fragmentarisch
+decoration: 
+inscription-type: Votive inscription
+inscription bearer: Altar
+fields: A
+material: Granit
+height: -50.0
+width: 23.0
+depth: 23.0
+height of inscribed field: 26
+width of inscribed field: 16
+letters size: 5-6
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 1Datierung Jahr Ende– 
+ 200
+date:specific:: Y
+social,economic, leagal history: 
+religion: B
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: KREMPL
+last update: 1990-11-11
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae communes
+punctuation: 
+literature: AE 1983, 0556.
+literature: L. Dos Santos - P. Le Roux - A. Tranoy, Inscrições romanas do
+literature: Museu Pio XII em Braga (Braga 1983) 10, Nr. 8; lám. 4,10.
+literature: L. Dos Santos - P. Le Roux - A. Tranoy, Bracara Augusta 37, 1983, 188,
+literature: Nr. 8; lám. 4,10. - AE.
+comment: Es handelt sich um die 1. Weihinschrift für Merkur in Bracara
+comment: Augusta.
+connections: 
+A-Text: Mer[c]/uri[o] / [&
+B-Text: MER[ ]
+B-Text: VRI[ ]
+B-Text: [
+Alphabetical list of words in inscription: Mercurio

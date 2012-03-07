@@ -1,0 +1,62 @@
+HD-Number: HD000071
+TM-Number: 
+Province: Hispania citerior
+Modern country: Portugal
+Find Spot(ancient name): 
+Find Spot (modern name): Sta. Maria de Bouro
+Region: Braga
+Year of Find: 
+Find Spot (street, etc.): Kapelle
+Present location: Mus. Pio XII Braga
+state of preservation: vollständig
+decoration: data available
+inscription-type: Votive inscription
+inscription bearer: Altar
+fields: A
+material: Granit
+height: 74.0
+width: 49.0
+depth: 32.0
+height of inscribed field: 30
+width of inscribed field: 37
+letters size: 5-5.5
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 1Datierung Jahr Ende– 
+ 200
+date:specific:: Y
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: NIQUET
+last update: 1997-08-10
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae communes
+punctuation: 
+literature: AE 1983, 0557.
+literature: L. Dos Santos - P. Le Roux - A. Tranoy, Inscrições romanas do
+literature: Museu Pio XII em Braga (Braga 1983) 10-11, Nr. 9; lám. 4,11.
+literature: L. Dos Santos - P. Le Roux - A. Tranoy, Bracara Augusta 37, 1983,
+literature: 188-189, Nr. 9; lám. 4,11. - AE.
+comment: 
+connections: 
+A-Text: Pro salute / [---]VM / [------] / [------]
+B-Text: PRO SALVTE
+B-Text: [   ]VM
+B-Text: [      ]
+B-Text: [      ]
+Alphabetical list of words in inscription: -VM  
+                                         
+            Pro  
+                                         
+            salute

@@ -1,0 +1,81 @@
+HD-Number: HD000092
+TM-Number: 
+Province: Latium et Campania (Regio I)
+Modern country: Italy
+Find Spot(ancient name): 
+Find Spot (modern name): Grottaferrata?
+Region: Roma
+Year of Find: 
+Find Spot (street, etc.): 
+Present location: Grottaferrata, Privatbesitz
+state of preservation: fragmentarisch
+decoration: 
+inscription-type: Epitaph
+inscription bearer: Tabula?
+fields: B
+material: Marmor
+height: 
+width: 
+depth: 
+height of inscribed field: 
+width of inscribed field: 
+letters size: 
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 71Datierung Jahr Ende– 
+ 200
+date:specific:: Y
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: FERAUDI
+last update: 2007-05-16
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: 
+punctuation: 
+literature: AE 1983, 0179.
+literature: AE 1976, 0137.
+literature: M. Humar, ArchClass 27, 1975, 32, Nr. 7. - AE 1976. 1983.
+comment: (C): Mitte 1. - 2. Jh.
+comment: Fraglich, ob Z. 3 Ende gebrochen oder Fortun. auf Stein stand.
+connections: 
+person: 1
+name: Iuliae Fortun[atae]
+praenomen: 
+nomen: Iulia
+cognoment: Fortunata+
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: female
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: D(is) M(anibus) / Iuliae / Fortun[atae &
+B-Text: D M
+B-Text: IVLIAE
+B-Text: FORTVN[
+Alphabetical list of words in inscription: Dis  
+                                         
+            Fortunatae  
+                                         
+            Iuliae  
+                                         
+            Manibus

@@ -1,0 +1,84 @@
+HD-Number: HD000142
+TM-Number: 
+Province: Lusitania
+Modern country: Spain
+Find Spot(ancient name): Emerita Augusta, aus
+Find Spot (modern name): Mérida, aus
+Region: Badajoz
+Year of Find: 
+Find Spot (street, etc.): 
+Present location: Mus. Episcopal Vic
+state of preservation: mehrere Fragmente
+decoration: 
+inscription-type: Epitaph
+inscription bearer: Tabula
+fields: A
+material: Marmor, Almadén de la Plata
+height: -23.0
+width: -27.0
+depth: 5.2
+height of inscribed field: 
+width of inscribed field: 
+letters size: 9.3-10
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 101Datierung Jahr Ende– 
+ 200
+date:specific:: Y
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: FERAUDI
+last update: 2005-01-20
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae oblongae
+punctuation: puncta triangularia (Spitze nach unten)
+literature: AE 1983, 0619. (A)
+literature: G. Fabre - M. Mayer - I. Rodà, Ampurias 44, 1982, 218-219, Nr. 27;
+literature: fig. 30. - AE.
+literature: I. Rodà i de Llanza, Catàleg de l'epigrafia i de l'escultura
+literature: clàssiques del Museu Episcopal de Vic (Vic 1989) 20, Nr. 7; Foto.
+comment: (A): Inschrift wird unter Tarraconensis eingeordnet.
+comment: Tafel aus 2 aneinanderpassenden Fragmenten zusammengesetzt.
+connections: 
+person: 1
+name: L. P. Athe[nodo?]ri
+praenomen: L.
+nomen: Pompeius*?
+cognoment: Athenodorus+?
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: L(uci) P(ompei?) Athe[nodo?]/ri loc[(us) p(edes) ---]
+B-Text: L P ATHE[    ]
+B-Text: RI LOC[      ]
+Alphabetical list of words in inscription: Athenodori?  
+                                         
+            Luci  
+                                         
+            Pompei?  
+                                         
+            locus  
+                                         
+            pedes

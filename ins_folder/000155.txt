@@ -1,0 +1,91 @@
+HD-Number: HD000155
+TM-Number: 
+Province: Latium et Campania (Regio I)
+Modern country: Italy
+Find Spot(ancient name): Portus, bei
+Find Spot (modern name): Fiumicino
+Region: Lazio
+Year of Find: -1974
+Find Spot (street, etc.): Isola Sacra, Santuario di S. Ippolito
+Present location: Roma, Ostia, Ostia antica, Mus. Ost.
+state of preservation: fragmentarisch
+decoration: 
+inscription-type: Epitaph
+inscription bearer: Tabula
+fields: A
+material: Marmor
+height: -26.0
+width: -38.5
+depth: 6.0
+height of inscribed field: 
+width of inscribed field: 
+letters size: 3.9-4.3
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 301Datierung Jahr Ende– 
+ 400
+date:specific:: Y
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: GRAEF
+last update: 2011-08-04
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: 
+punctuation: CE
+literature: AE 1983, 0133. (C)
+literature: D. Mazzoleni, I reperti epigrafici (Roma 1983) 148-149, Nr. 260;
+literature: tav. 69, 260. - AE 1983.
+literature: H. Solin, Arctos 20, 1986, 276.
+comment: Z.1: Aemi[li oder iani].
+comment: Z.4: subiai = symbiai = coniugi? (Vorschlag Mazzoleni).
+connections: 
+person: 1
+name: [---] Mindi Aemi[liani?]
+praenomen: 0
+nomen: Mindius
+cognoment: Aemilianus+?
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: A?
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: [---] Mindi Aemi/[---] abe(!) salbus(!) / [---]sis / [---cu]m
+A-Text: subiai(?) / [&
+B-Text: [   ] MINDI AEMI
+B-Text: [   ] ABE SALBVS
+B-Text: [   ]SIS
+B-Text: [     ]M SVBIAI
+B-Text: [
+Alphabetical list of words in inscription: -cum  
+                                         
+            -sis  
+                                         
+            Aemi-  
+                                         
+            Mindi  
+                                         
+            abe!  
+                                         
+            salbus!  
+                                         
+            subiai?

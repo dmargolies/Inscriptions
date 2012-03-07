@@ -1,0 +1,60 @@
+HD-Number: HD000050
+TM-Number: 
+Province: Hispania citerior
+Modern country: Portugal
+Find Spot(ancient name): 
+Find Spot (modern name): Mondim
+Region: Braga
+Year of Find: 
+Find Spot (street, etc.): Kirche
+Present location: Mus. Pio XII Braga
+state of preservation: fragmentarisch
+decoration: 
+inscription-type: Votive inscription
+inscription bearer: Altar
+fields: A
+material: Granit
+height: 83.0
+width: 36.0
+depth: 36.0
+height of inscribed field: 60
+width of inscribed field: 25
+letters size: 6-6.5
+ligature: J
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 1Datierung Jahr Ende– 
+ 200
+date:specific:: Y
+social,economic, leagal history: 
+religion: B
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: NIQUET
+last update: 1997-08-08
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: X
+palaeography: inserta: 
+writing type: litterae communes
+punctuation: hedera
+literature: AE 1983, 0549.
+literature: L. Dos Santos - P. Le Roux - A. Tranoy, Inscrições romanas do
+literature: Museu Pio XII em Braga (Braga 1983) 6-7, Nr. 1; lám. 1,1.
+literature: L. Dos Santos - P. Le Roux - A. Tranoy, Bracara Augusta 37, 1983,
+literature: 184-185, Nr. 1; lám. 1,1. - AE.
+comment: Text wahrscheinlich nachgraviert.
+comment: Der Altar wurde oben für sek. Verwendung zurechtgeschnitten.
+connections: 
+A-Text: I(ovi) O(ptimo) Max(imo)
+B-Text: I O MAX
+Alphabetical list of words in inscription: Iovi  
+                                         
+            Maximo  
+                                         
+            Optimo

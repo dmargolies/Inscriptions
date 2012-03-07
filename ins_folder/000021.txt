@@ -1,0 +1,270 @@
+HD-Number: HD000021
+TM-Number: 
+Province: Baetica
+Modern country: Spain
+Find Spot(ancient name): Siarum, bei
+Find Spot (modern name): Los Palacios y Villafranca
+Region: Sevilla
+Year of Find: -1978
+Find Spot (street, etc.): El Trobal
+Present location: Los Palacios y Villafranca, Privatbesitz
+state of preservation: vollständig
+decoration: 
+inscription-type: Honorific inscription
+inscription bearer: Statue base
+fields: B
+material: Marmor
+height: 91.0
+width: 59.0
+depth: 28.0
+height of inscribed field: 69
+width of inscribed field: 41
+letters size: 4.5-2.8
+ligature: S
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 143Datierung Jahr Ende– 
+ 145
+date:specific:: AY
+social,economic, leagal history: DE
+religion: 
+communal groups: 
+geography: F
+political communities: B
+military: legiones
+status of the EDH-version: provisional work status
+responsible individual: FERAUDI
+last update: 2007-05-16
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: 
+punctuation: AF
+literature: AE 1983, 0517. (B)
+literature: J. González - A. Caballos Rufino, ZPE 52, 1983, 157-160;
+literature: Taf. 5a. (A) - AE.
+comment: (B): AE: Z.4: Albino statt Balbino; Z.5: design(ato); Z.6: Aeli.
+comment: (A): Schriftbild nicht actuaria, sondern rustica.
+comment: Y: Amt des praefectus urbis feriarum Latinarum auf 136 durch Angabe
+comment: der Konsuln datiert
+connections: 
+person: 1
+name: M. Messio M.f. Gal. Rusticiano Aemilio Lepido Iulio Celso Balbino Arrio Proculo
+praenomen: M.
+nomen: Messius Aemilius Iulius Arrius
+cognoment: Rusticianus Lepidus Celsus Balbinus Proculus
+supernomen: 
+filiation: M.f.
+tribus: Galeria
+origo: 
+other: A
+gender: male
+relations: GR
+status: senatorial order
+official positions: AC
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 2
+name: Titi Aelii Hadriani Antonini
+praenomen: T.
+nomen: Aelius
+cognoment: Hadrianus Antoninus
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: A
+gender: male
+relations: 
+status: emperor / imperial household
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 3
+name: Aemilius Papus
+praenomen: 
+nomen: Aemilius
+cognoment: Papus
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: EV
+status: senatorial order
+official positions: höhere Funktionen in der Verwaltung
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 4
+name: Burbulei Ligariani
+praenomen: 
+nomen: Burbuleius
+cognoment: Ligarianus
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: PV
+status: senatorial order
+official positions: höhere Funktionen in der Verwaltung
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: M(arco) Messio M(arci) f(ilio) / Gal(eria) Rusticiano /
+A-Text: Aemilio Lepido Iulio / Celso Balbino Arrio / Proculo trib(uno)
+A-Text: pleb(is) desig(nato) / q(uaestori) Imp(eratoris) Caesaris Titi
+A-Text: Aelii / Hadriani Antonini Aug(usti) / Pii p(atris) p(atriae)
+A-Text: trib(uno) mil(itum) leg(ionis) XV Apol/linar(is) et leg(ionis)
+A-Text: III Gallicae / praef(ecto) urbis feriar(um) Latinar(um) /
+A-Text: co(n)s(ulatu) Aemili Papi patris / Burbulei Ligariani soceri /
+A-Text: Xviro stlitibus iudicandis / res publica Siarensium / Aemilius
+A-Text: Papus pater hono/re usus sua pecunia / posuit
+B-Text: M MESSIO M F
+B-Text: GAL RVSTICIANO
+B-Text: AEMILIO LEPIDO IVLIO
+B-Text: CELSO BALBINO ARRIO
+B-Text: PROCVLO TRIB PLEB DESIG
+B-Text: Q IMP CAESARIS TITI AELII
+B-Text: HADRIANI ANTONINI AVG
+B-Text: PII P P TRIB MIL LEG XV APOL
+B-Text: LINAR ET LEG III GALLICAE
+B-Text: PRAEF VRBIS FERIAR LATINAR
+B-Text: COS AEMILI PAPI PATRIS
+B-Text: BVRBVLEI LIGARIANI SOCERI
+B-Text: XVIRO STLITIBVS IVDICANDIS
+B-Text: RES PVBLICA SIARENSIVM
+B-Text: AEMILIVS PAPVS PATER HONO
+B-Text: RE VSVS SVA PECVNIA
+B-Text: POSVIT
+Alphabetical list of words in inscription: Aelii  
+                                         
+            Aemili  
+                                         
+            Aemilio  
+                                         
+            Aemilius  
+                                         
+            Antonini  
+                                         
+            Apollinaris  
+                                         
+            Arrio  
+                                         
+            Augusti  
+                                         
+            Balbino  
+                                         
+            Burbulei  
+                                         
+            Caesaris  
+                                         
+            Celso  
+                                         
+            Galeria  
+                                         
+            Gallicae  
+                                         
+            Hadriani  
+                                         
+            III  
+                                         
+            Imperatoris  
+                                         
+            Iulio  
+                                         
+            Latinarum  
+                                         
+            Lepido  
+                                         
+            Ligariani  
+                                         
+            Marci  
+                                         
+            Marco  
+                                         
+            Messio  
+                                         
+            Papi  
+                                         
+            Papus  
+                                         
+            Pii  
+                                         
+            Proculo  
+                                         
+            Rusticiano  
+                                         
+            Siarensium  
+                                         
+            Titi  
+                                         
+            XV  
+                                         
+            Xviro  
+                                         
+            consulatu  
+                                         
+            designato  
+                                         
+            et  
+                                         
+            feriarum  
+                                         
+            filio  
+                                         
+            honore  
+                                         
+            iudicandis  
+                                         
+            legionis  
+                                         
+            militum  
+                                         
+            pater  
+                                         
+            patriae  
+                                         
+            patris  
+                                         
+            pecunia  
+                                         
+            plebis  
+                                         
+            posuit  
+                                         
+            praefecto  
+                                         
+            publica  
+                                         
+            quaestori  
+                                         
+            res  
+                                         
+            soceri  
+                                         
+            stlitibus  
+                                         
+            sua  
+                                         
+            tribuno  
+                                         
+            urbis  
+                                         
+            usus

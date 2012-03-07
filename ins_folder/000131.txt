@@ -1,0 +1,112 @@
+HD-Number: HD000131
+TM-Number: 
+Province: Apulia et Calabria (Regio II)
+Modern country: Italy
+Find Spot(ancient name): Luceria, bei
+Find Spot (modern name): Lucera, bei
+Region: Foggia
+Year of Find: 1963
+Find Spot (street, etc.): Gehöft Palumbo
+Present location: Lucera, Mus. Civ. „Giuseppe Fiorelli“
+state of preservation: 
+decoration: 
+inscription-type: Epitaph
+inscription bearer: Tabula
+fields: 
+material: Marmor
+height: 23.5
+width: 31.0
+depth: 3.0
+height of inscribed field: 
+width of inscribed field: 
+letters size: 3
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 71Datierung Jahr Ende– 
+ 200
+date:specific:: Y
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: KREMPL
+last update: 1991-04-30
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: vorgezeichnete Hilfslinien
+punctuation: 
+literature: AE 1983, 0239.
+literature: M. Bàlice, ASP 34, 1981, 25, Nr. 29. - AE.
+comment: Es handelt sich in der Inschrift um 2 Freundinnen. Dreieckige
+comment: Interpunktionen.
+connections: 
+person: 1
+name: Naeviae Restitutae
+praenomen: 
+nomen: Naevia
+cognoment: Restituta
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: female
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 2
+name: Muttiena Felicula
+praenomen: 
+nomen: Muttiena
+cognoment: Felicula
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: female
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: D(is) M(anibus) / Naeviae / Restitutae / Muttiena Felicu/la
+A-Text: amicae m(erenti) p(osuit)
+B-Text: D M
+B-Text: NAEVIAE
+B-Text: RESTITVTAE
+B-Text: MVTTIENA FELICV
+B-Text: LA AMICAE M P
+Alphabetical list of words in inscription: Dis  
+                                         
+            Felicula  
+                                         
+            Manibus  
+                                         
+            Muttiena  
+                                         
+            Naeviae  
+                                         
+            Restitutae  
+                                         
+            amicae  
+                                         
+            merenti  
+                                         
+            posuit

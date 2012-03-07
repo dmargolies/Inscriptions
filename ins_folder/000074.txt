@@ -1,0 +1,85 @@
+HD-Number: HD000074
+TM-Number: 
+Province: Hispania citerior
+Modern country: Portugal
+Find Spot(ancient name): 
+Find Spot (modern name): Vila Chã
+Region: Braga
+Year of Find: 
+Find Spot (street, etc.): Castro de S. Lourenço
+Present location: Mus. Pio XII Braga
+state of preservation: fragmentarisch
+decoration: data available
+inscription-type: Votive inscription
+inscription bearer: Altar
+fields: A
+material: Granit
+height: -53.5
+width: 31.5
+depth: 30.0
+height of inscribed field: -28
+width of inscribed field: 25
+letters size: 4.5
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 101Datierung Jahr Ende– 
+ 200
+date:specific:: Y
+social,economic, leagal history: C
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: NIQUET
+last update: 1997-08-11
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: 
+punctuation: 
+literature: AE 1983, 0559.
+literature: L. Dos Santos - P. Le Roux - A. Tranoy, Inscrições romanas do
+literature: Museu Pio XII em Braga (Braga 1983) 12, Nr. 11; lám. 4,12 u. 4,13.
+literature: L. Dos Santos - P. Le Roux - A. Tranoy, Bracara Augusta 37, 1983, 190,
+literature: Nr. 11; lám. 4,12 u. 4,13. - AE.
+comment: Der Altar wurde oben und auf der Vorderseite zurechtgeschnitten.
+comment: Dea sancta: wohl Ataecina.
+connections: 
+person: 1
+name: [A]nicius [---]
+praenomen: 
+nomen: Anicius+
+cognoment: 0
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: Daeae(!) / sancta[e] / sacrum / [A]nicius / [&
+B-Text: DAEAE
+B-Text: SANCTA[ ]
+B-Text: SACRVM
+B-Text: [ ]NICIVS
+B-Text: [
+Alphabetical list of words in inscription: Anicius  
+                                         
+            Daeae!  
+                                         
+            sacrum  
+                                         
+            sanctae

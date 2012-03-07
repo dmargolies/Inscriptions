@@ -1,0 +1,149 @@
+HD-Number: HD000078
+TM-Number: 
+Province: Hispania citerior
+Modern country: Portugal
+Find Spot(ancient name): Bracara Augusta, bei
+Find Spot (modern name): Giela
+Region: Viana do Castelo
+Year of Find: 
+Find Spot (street, etc.): 
+Present location: Mus. Pio XII Braga
+state of preservation: vollständig
+decoration: data available
+inscription-type: Votive inscription
+inscription bearer: Altar
+fields: C
+material: Granit
+height: 68.5
+width: 22.0
+depth: 21.5
+height of inscribed field: 40
+width of inscribed field: 21
+letters size: 3.5-5.5
+ligature: J
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 1Datierung Jahr Ende– 
+ 300
+date:specific:: Y
+social,economic, leagal history: 
+religion: C
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: NIQUET
+last update: 1997-08-12
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae communes
+punctuation: 
+literature: AE 1983, 0565.
+literature: L. Dos Santos - P. Le Roux - A. Tranoy, Inscrições romanas do
+literature: Museu Pio XII em Braga (Braga 1983) 15-16, Nr. 17; lám. 6,18-20.
+literature: L. Dos Santos - P. Le Roux - A. Tranoy, Bracara Augusta 37, 1983, 193-
+literature: 194, Nr. 17; lám. 6,18-20. - AE 1983.
+literature: AE 1986, 0385.
+literature: A. Tranoy, Rev. de Guimarães 94, 1984, 443-449. - AE 1986.
+literature: (unzugänglich).
+comment: Soupi Camali f. ist möglicherweise Zeichen der officina.
+comment: Unklares Geschlecht der Gottheit: Auflösung der Z. 1: D(omino)
+comment: s(ancto) oder D(ominae) s(anctae).
+connections: 
+person: 1
+name: Co. Rufila
+praenomen: 
+nomen: Cornelia*?
+cognoment: Rufila
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: female
+relations: K
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 2
+name: Soupi Camal. f.
+praenomen: 
+nomen: 
+cognoment: Soupius
+supernomen: 
+filiation: 1
+tribus: 
+origo: 
+other: 
+gender: male
+relations: G
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 3
+name: Camal.
+praenomen: 
+nomen: 
+cognoment: Camalus*
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: E
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: Do(mino?) sa(ncto?) / La(---) La(---) / a(ram) p(osuit)
+A-Text: q(uod?) / vo(vit?) fr(ater) / Co(rnelia?) Rufila // Soupi
+A-Text: Camal(i) f(ilii)
+B-Text: DO SA
+B-Text: LA LA
+B-Text: A P Q
+B-Text: VO FR
+B-Text: CO RVFILA
+B-Text: 
+B-Text: SOVPI CAMAL F
+Alphabetical list of words in inscription: Camali  
+                                         
+            Cornelia?  
+                                         
+            Domino?  
+                                         
+            La-  
+                                         
+            Rufila  
+                                         
+            Soupi  
+                                         
+            aram  
+                                         
+            filii  
+                                         
+            frater  
+                                         
+            posuit  
+                                         
+            quod?  
+                                         
+            sancto?  
+                                         
+            vovit?

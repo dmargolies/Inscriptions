@@ -1,0 +1,96 @@
+HD-Number: HD000104
+TM-Number: 
+Province: Latium et Campania (Regio I)
+Modern country: Italy
+Find Spot(ancient name): Ficana
+Find Spot (modern name): Dragoncello
+Region: Roma
+Year of Find: 
+Find Spot (street, etc.): Villa rustica
+Present location: 
+state of preservation: mehrere Fragmente
+decoration: 
+inscription-type: Epitaph
+inscription bearer: 
+fields: A
+material: Travertin
+height: -51.0
+width: 35.0
+depth: 6.0
+height of inscribed field: 
+width of inscribed field: 
+letters size: 
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): -70Datierung Jahr Ende– 
+ -31
+date:specific:: Y
+social,economic, leagal history: CN
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: GRAEF
+last update: 2007-08-02
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae communes
+punctuation: AB
+literature: AE 1983, 0173. (C)
+literature: A. Pellegrino, QuadStAEtrIt 7, 1983, 82; fig. 8 (Zeichnung). (B) - AE 1983.
+comment: (B): Cognomen Dio als Abkürzung aufgefaßt.
+comment: Grabstein aus zwei Fragmenten bestehend.
+comment: (C): 1. Jh. v. Chr.
+connections: 
+person: 1
+name: Cn. Orchivius |(mulieris)l. Dio
+praenomen: Cn.
+nomen: Orchivius
+cognoment: Dio
+supernomen: 
+filiation: 5
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: freedmen / freedwomen
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: Cn(aeus) Orchivius / |(mulieris) l(ibertus) Dio in fro(nte) /
+A-Text: p(edes) XIIX in agr(o) XX
+B-Text: CN ORCHIVIVS
+B-Text: | L DIO IN FRO
+B-Text: P XIIX IN AGR XX
+Alphabetical list of words in inscription: Cnaeus  
+                                         
+            Dio  
+                                         
+            Orchivius  
+                                         
+            XIIX  
+                                         
+            XX  
+                                         
+            agro  
+                                         
+            fronte  
+                                         
+            in  
+                                         
+            libertus  
+                                         
+            mulieris  
+                                         
+            pedes

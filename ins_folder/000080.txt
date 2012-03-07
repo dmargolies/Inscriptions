@@ -1,0 +1,79 @@
+HD-Number: HD000080
+TM-Number: 
+Province: Roma
+Modern country: Italy
+Find Spot(ancient name): Roma
+Find Spot (modern name): Roma
+Region: Lazio
+Year of Find: 
+Find Spot (street, etc.): Via degli Olmi
+Present location: 
+state of preservation: fragmentarisch
+decoration: data available
+inscription-type: Epitaph
+inscription bearer: Stele?
+fields: 
+material: Travertin
+height: -9.0
+width: -14.5
+depth: -9.0
+height of inscribed field: 
+width of inscribed field: 
+letters size: 3.2
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 51Datierung Jahr Ende– 
+ 100
+date:specific:: Y
+social,economic, leagal history: 
+religion: 
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: corresponds to AE reading || checked with photo
+responsible individual: FERAUDI
+last update: 2010-01-08
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae oblongae
+punctuation: puncta triangularia (Spitze nach unten)
+literature: AE 1983, 0070.
+literature: M. Mattei, QuadStAEtrIt 7, 1983, 152, Nr. 1; fig. 1. - AE 1983.
+comment: AE 1983, Mattei: abweichende Datierung in die 1. Hälfte 1. Jh. n. Chr.
+connections: 
+person: 1
+name: L. Vei(?) [---]
+praenomen: L.
+nomen: Veius?
+cognoment: 0
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: D(is) [M(anibus)] / L(uci) Vei(?) [---] / [&
+B-Text: D [ ]
+B-Text: L VEI [   ]
+B-Text: [
+Alphabetical list of words in inscription: Dis  
+                                         
+            Luci  
+                                         
+            Manibus  
+                                         
+            Vei?

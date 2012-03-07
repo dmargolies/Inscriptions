@@ -1,0 +1,106 @@
+HD-Number: HD000090
+TM-Number: 
+Province: Britannia
+Modern country: United Kingdom
+Find Spot(ancient name): Aquae Sulis
+Find Spot (modern name): Bath
+Region: Avon
+Year of Find: 1979
+Find Spot (street, etc.): Römisches Bad
+Present location: 
+state of preservation: vollständig
+decoration: 
+inscription-type: Defixio
+inscription bearer: Tessera
+fields: A
+material: Blei-Zinn
+height: 4.9
+width: 8.8
+depth: 
+height of inscribed field: 
+width of inscribed field: 
+letters size: 
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 201Datierung Jahr Ende– 
+ 300
+date:specific:: Y
+social,economic, leagal history: 
+religion: 14
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: GRAEF
+last update: 2011-07-20
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae cursivae/actuariae
+punctuation: interpunctio omissa
+literature: AE 1983, 0636.
+literature: M.W.C. Hassall - R.S.O. Tomlin, Britannia 14, 1983, 336, Nr. 6;
+literature: fig. 37 (Zeichnung). - AE.
+literature: AE 1992, 1117.
+comment: Y: Datierung nach M.W.C. Hassall - R.S.O. Tomlin.
+connections: 
+A-Text: Minervae / de(ae) Suli donavi / furem qui / caracallam / meam
+A-Text: invo/lavit si servus / si liber si ba/ro si mulier / hoc donum
+A-Text: non / redemat(!) nessi(!) / sangu(i)ne suo
+B-Text: MINERVAE
+B-Text: DE SVLI DONAVI
+B-Text: FVREM QVI
+B-Text: CARACALLAM
+B-Text: MEAM INVO
+B-Text: LAVIT SI SERVVS
+B-Text: SI LIBER SI BA
+B-Text: RO SI MVLIER
+B-Text: HOC DONVM NON
+B-Text: REDEMAT NESSI
+B-Text: SANGVNE SVO
+Alphabetical list of words in inscription: Minervae  
+                                         
+            Suli  
+                                         
+            baro  
+                                         
+            caracallam  
+                                         
+            deae  
+                                         
+            donavi  
+                                         
+            donum  
+                                         
+            furem  
+                                         
+            hoc  
+                                         
+            involavit  
+                                         
+            liber  
+                                         
+            meam  
+                                         
+            mulier  
+                                         
+            nessi!  
+                                         
+            non  
+                                         
+            qui  
+                                         
+            redemat!  
+                                         
+            sanguine  
+                                         
+            servus  
+                                         
+            si  
+                                         
+            suo

@@ -1,0 +1,178 @@
+HD-Number: HD000012
+TM-Number: 
+Province: Britannia
+Modern country: United Kingdom
+Find Spot(ancient name): Aquae Sulis
+Find Spot (modern name): Bath
+Region: Avon
+Year of Find: 1979
+Find Spot (street, etc.): Römisches Bad
+Present location: 
+state of preservation: vollständig
+decoration: 
+inscription-type: Defixio
+inscription bearer: Tessera
+fields: I
+material: Blei-Zinn
+height: 12.8
+width: 4.9
+depth: 
+height of inscribed field: 
+width of inscribed field: 
+letters size: 
+ligature: 
+meter: 
+language: Latin
+date:day:: 
+date:month:: 
+date:year(terminus a quo): 301Datierung Jahr Ende– 
+ 400
+date:specific:: Y
+social,economic, leagal history: 
+religion: 14
+communal groups: 
+geography: 
+political communities: 
+military: 
+status of the EDH-version: provisional work status
+responsible individual: GRAEF
+last update: 2011-07-20
+palaeography: longa: 
+palaeography: apice ornata: 
+palaeography: parva: 
+palaeography: inserta: 
+writing type: litterae cursivae/actuariae
+punctuation: interpunctio omissa
+literature: AE 1983, 0633.
+literature: M.W.C. Hassall - R.S.O. Tomlin, Britannia 14, 1983, 336, Nr. 3; fig.
+literature: 33 u. 34 (Zeichnungen). - AE 1983.
+literature: AE 1992, 1117.
+comment: Y: Datierung nach Hassall - Tomlin ins 4. Jh. aufgrund Schriftbild
+comment: und Name Basilia.
+connections: 
+person: 1
+name: Basilia
+praenomen: 
+nomen: 
+cognoment: Basilia
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: female
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+person: 2
+name: Primurudem
+praenomen: 
+nomen: 
+cognoment: Primurudes
+supernomen: 
+filiation: 
+tribus: 
+origo: 
+other: 
+gender: male
+relations: 
+status: 
+official positions: 
+occupation: 
+lifetime:years:: 
+lifetime:months:: 
+lifetime:days:: lifetime: days:
+lifetime:hours:: lifetime: hours:
+A-Text: Primurudem // Basilia donat in templum Martis ani/lum(!)
+A-Text: argenteum si servus si liber / (ta)mdiu siluerit vel aliquid
+A-Text: de hoc / noverit ut sanguin(e) et liminibus(!) ob(!) //
+A-Text: omnibus(!) membris(!) configatur vel et/iam intestinis
+A-Text: excomesis (om)nibus habe(at) / is qui anilum(!) involavit(!)
+A-Text: vel qui medius / fuerit
+B-Text: PRIMVRVDEM
+B-Text: 
+B-Text: BASILIA DONAT IN TEMPLVM MARTIS ANI
+B-Text: LVM ARGENTEVM SI SERVVS SI LIBER
+B-Text: MDIV SILVERIT VEL ALIQVID DE HOC
+B-Text: NOVERIT VT SANGVIN ET LIMINIBVS OB
+B-Text: 
+B-Text: OMNIBVS MEMBRIS CONFIGATVR VEL ET
+B-Text: IAM INTESTINIS EXCOMESIS NIBVS HABE
+B-Text: IS QVI ANILVM INVOLAVIT VEL QVI MEDIVS
+B-Text: FVERIT
+Alphabetical list of words in inscription: Basilia  
+                                         
+            Martis  
+                                         
+            Primurudem  
+                                         
+            aliquid  
+                                         
+            anilum!  
+                                         
+            argenteum  
+                                         
+            configatur  
+                                         
+            de  
+                                         
+            donat  
+                                         
+            et  
+                                         
+            etiam  
+                                         
+            excomesis  
+                                         
+            fuerit  
+                                         
+            habeat  
+                                         
+            hoc  
+                                         
+            in  
+                                         
+            intestinis  
+                                         
+            involavit!  
+                                         
+            is  
+                                         
+            liber  
+                                         
+            liminibus!  
+                                         
+            medius  
+                                         
+            membris!  
+                                         
+            noverit  
+                                         
+            ob!  
+                                         
+            omnibus  
+                                         
+            omnibus!  
+                                         
+            qui  
+                                         
+            sanguine  
+                                         
+            servus  
+                                         
+            si  
+                                         
+            siluerit  
+                                         
+            tamdiu  
+                                         
+            templum  
+                                         
+            ut  
+                                         
+            vel
