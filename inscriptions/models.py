@@ -1,17 +1,25 @@
 from django.db import models
-
-class Literature(models.Model):
-    data = models.TextField() #could be char field
+class Trade(models.Model):
+    trade_name = models.CharField(max_length = 200)
+    comment = models.TextField(null=True, blank=True) #in case she needs more space than 200
     def __unicode__(self):
-        return self.data
-class Comment(models.Model):
-    data = models.TextField(null=True, blank=True) #could be char field
+        return self.trade_name
+class Deity(models.Model):
+    deity_name = models.CharField(max_length=200)
+    comment = models.TextField(null=True, blank=True)
     def __unicode__(self):
-        return self.data
-class Connection(models.Model):
-    data = models.CharField(max_length = 200, null=True, blank=True)
+        return self.deity_name
+class AssociativeUnit(models.Model):
+    unit_name = models.CharField(max_length=200)
+    comment = models.TextField(null=True, blank=True)
     def __unicode__(self):
-        return self.data
+        return self.unit_name        
+class ImperialHouse(models.Model):
+    house_name = models.CharField(max_length=200)
+    comment = models.TextField(null=True, blank=True)
+    def __unicode__(self):
+        return self.house_name
+        
 class Person(models.Model):
     name = models.CharField(max_length = 200)
     praenomen = models.CharField(max_length = 200, null=True, blank=True)
@@ -33,16 +41,7 @@ class Person(models.Model):
     lifetime_hours = models.IntegerField(null=True, blank=True)
     def __unicode__(self):
         return self.name
-class A_Text(models.Model):
-    data = models.TextField(null=True, blank=True)
-    def __unicode__(self):
-        return self.data
-class B_Text(models.Model):
-    data = models.TextField(null=True, blank=True)
-    def __unicode__(self):
-        return self.data
 
-#the long one
 class Inscription(models.Model):
     hd_number = models.CharField(max_length = 10, null=True, blank=True) #could just be 8, **make unique**
     tm_number = models.CharField(max_length = 10, null=True, blank=True) #did not actually find any tm numbers(?)
@@ -57,7 +56,7 @@ class Inscription(models.Model):
     state_of_preservation = models.CharField(max_length = 200, null=True, blank=True)
     decoration = models.CharField(max_length = 200, null=True, blank=True)
     inscription_type = models.CharField(max_length = 200, null=True, blank=True)
-    inscription_beared = models.CharField(max_length = 200, null=True, blank=True)
+    inscription_bearer = models.CharField(max_length = 200, null=True, blank=True)
     field = models.CharField(max_length = 200, null=True, blank=True)
     material = models.CharField(max_length = 200, null=True, blank=True)
     height = models.DecimalField(max_digits = 7, decimal_places = 2, null=True, blank=True)
@@ -88,25 +87,28 @@ class Inscription(models.Model):
     palaeography_inserta = models.CharField(max_length = 200, null=True, blank=True)
     writing_type = models.CharField(max_length = 200, null=True, blank=True)
     punctuation = models.CharField(max_length = 200, null=True, blank=True) 
-    
-    #literature is a many-many relationship
-    literatures = models.ManyToManyField(Literature, null=True, blank=True)
-    
-    #comment is a many-many (I think)
-    comments = models.ManyToManyField(Comment, null=True, blank=True)
-    
-    #connections is a many-many
-    connections = models.ManyToManyField(Connection, null=True, blank=True)
+    literature = models.TextField(null=True, blank=True)
+    comment = models.TextField(null=True, blank=True)
+    connections = models.TextField(null=True, blank=True)
     
     #persons
     persons = models.ManyToManyField(Person, null=True, blank=True)
-
-    #Texts
-    a_texts = models.ManyToManyField(A_Text, null=True, blank=True)
-    b_texts = models.ManyToManyField(B_Text, null=True, blank=True)
+    
+    #a,b-text just fields
+    a_text = models.TextField(null=True, blank=True)
+    b_text = models.TextField(null=True, blank=True)
     
     #alphabetical list of words -- why bother making this a list??
     words = models.TextField(null=True, blank=True)
+    
+    #other many-many fields
+    trades = models.ManyToManyField(Trade, null=True, blank=True)
+    deities = models.ManyToManyField(Deity, null=True, blank=True)
+    associativeUnits = models.ManyToManyField(AssociativeUnit, null=True, blank=True)
+    imperialHouses = models.ManyToManyField(ImperialHouse, null=True, blank=True)
+    
+    #additional fields
+    translation = models.TextField(null=True, blank=True)
 
     def __unicode__(self):
         return self.hd_number + " " + self.inscription_type

@@ -37,6 +37,7 @@ def lookup(theKey, theMap):
         return val
 
 def createInscription(insMap):
+    #Every Inscription must be unique, so we check if it exists (no duplicates allowed)
     (inscription, wasCreated) = Inscription.objects.get_or_create(
         hd_number = lookup("HD-Number", insMap),
         tm_number = lookup("TM-Number", insMap),
@@ -51,7 +52,7 @@ def createInscription(insMap):
         state_of_preservation = lookup("state of preservation", insMap),
         decoration = lookup("decoration", insMap),
         inscription_type = lookup("inscription-type", insMap),
-        inscription_beared = lookup("inscription bearer", insMap), #fix spelling of beared --probably need to drop table AND fix model
+        inscription_bearer = lookup("inscription bearer", insMap),
         field = lookup("fields", insMap),
         material = lookup("material", insMap),
         height= toFloat(lookup("height", insMap)),
@@ -82,23 +83,16 @@ def createInscription(insMap):
         palaeography_inserta = lookup("palaeography: inserta", insMap),
         writing_type = lookup("writing type", insMap),
         punctuation = lookup("punctuation", insMap),
+        comment = lookup("comment", insMap),
+        #connections is just blank
+        a_text = lookup("A-Text", insMap),
+        b_text = lookup("B-Text", insMap),
         words = lookup("Alphabetical list of words in inscription", insMap))
     return (inscription, wasCreated)
-        
-def createComment(comMap):
-    (comment, wasCreated) = Comment.objects.get_or_create(data = lookup("comment", comMap))
-    return (comment, wasCreated)
-    
-def createLiterature(litMap):
-    (literature, wasCreated) = Literature.objects.get_or_create(data = lookup("literature", litMap))
-    return (literature, wasCreated)
-
-def createConnection(conMap):
-    (connection, wasCreated) = Connection.objects.get_or_create(data = lookup("connections", conMap))
-    return (connection, wasCreated)
     
 def createPerson(personMap):
-    (person, wasCreated) = Person.objects.get_or_create(
+    #Create a brand new person, even if one with the same attributes already exists
+    person= Person(
         name = lookup("name", personMap),
         praenomen = lookup("praenomen", personMap),
         nomen = lookup("nomen", personMap),
@@ -116,53 +110,21 @@ def createPerson(personMap):
         lifetime_years = toInt(lookup("lifetime:years:", personMap)),
         lifetime_months = toInt(lookup("lifetime:months:", personMap)),
         lifetime_hours = toInt(lookup("lifetime:hours:", personMap)))
-    return (person, wasCreated)
-    
-def createA_text(a_textMap):
-    (a_text, wasCreated) = A_Text.objects.get_or_create(data = lookup("A-Text", a_textMap))
-    return (a_text, wasCreated)
-def createB_text(b_textMap):
-    (b_text, wasCreated) = B_Text.objects.get_or_create(data = lookup("B-Text", b_textMap))
-    return (b_text, wasCreated)
+    return person
     
 class PageData:
-    def __init__(self, insMap, litList, comList, conList, persList, a_list, b_list):
+    def __init__(self, insMap, persList):
         self.inscriptionMap = insMap
-        self.literatureList = litList
-        self.commentList = comList
-        self.connectionList = conList
         self.personList = persList
-        self.a_textList = a_list
-        self.b_textList = b_list
         
     #getters
-    def getLiteratureList(self):
-        return self.literatureList
-    def getCommentList(self):
-        return self.commentList
-    def getConnectionList(self):
-        return self.connectionList
     def getPersonList(self):
         return self.personList
-    def getA_textList(self):
-        return self.a_textList
-    def getB_textList(self):
-        return self.b_textList
     def getInscriptionMap(self):
         return self.inscriptionMap
         
     #setters, not really necessary?  
-    def setLiteratureList(self, litList):
-        self.literatureList = litList
-    def setCommentList(self, comList):
-        self.commentList = comList
-    def setConnectionList(self, conList):
-        self.connectionList = conList
     def setPersonList(self, persList):
         self.personList = persList
-    def setA_textList(self, a_list):
-        self.a_textList = a_list
-    def setB_textList(self, b_list):
-        self.b_textList = b_list
     def setInscriptionMap(self, insMap):
         self.inscriptionMap = insMap

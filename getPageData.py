@@ -43,12 +43,12 @@ def Get_Data_From_Page(HD_Number):
     
     #inputs to the pageData obj
     inscriptionMap = {}
-    literatureList = []
-    commentList = []
-    connectionList = []
+    #literatureList = []
+    #commentList = []
+    #connectionList = []
     personList = []
-    a_textList = []
-    b_textList = []
+    #a_textList = []
+    #b_textList = []
     
     #the heavy lifting
     
@@ -105,43 +105,43 @@ def Get_Data_From_Page(HD_Number):
             print data
         offset += 3
         data = listofTDTags[class_start + offset] 
-        literatureList.append(litMap)
+        #literatureList.append(litMap)
         
     #get the comment(s)
     class_start = 136
     offset = offset - 2
     data = listofTDTags[class_start + offset]
     while data.get("class") != "M":
-        comMap = {}
+        #comMap = {}
         for importantnumber in important_L_Number:
             data = listofTDTags[importantnumber + offset].getText()
             Description = important_L_Number[importantnumber]
             dataToFile.write(Description + ": " + encode(data) + "\n")
-            comMap[Description] = encode(data)
+            inscriptionMap[Description] = encode(data)
             print importantnumber + offset
             print important_L_Number[importantnumber]
             print data
         offset += 3
         data = listofTDTags[class_start + offset]
-        commentList.append(comMap)
+        #commentList.append(comMap)
         
     #get the connection(s)
     class_start = 139
     offset = offset - 2
     data = listofTDTags[class_start + offset]
     while data.get("class") != "N" and data.get("class") != "O":
-        conMap = {}
+        #conMap = {}
         for importantnumber in important_M_Number:
             data = listofTDTags[importantnumber + offset].getText()
             Description = important_M_Number[importantnumber]
             dataToFile.write(Description + ": " + encode(data) + "\n")
-            conMap[Description] = encode(data)
+            inscriptionMap[Description] = encode(data)
             print importantnumber + offset
             print important_M_Number[importantnumber]
             print data           
         offset += 3
         data = listofTDTags[class_start + offset]
-        connectionList.append(conMap)
+        #connectionList.append(conMap)
     
     #get the person(s)
     class_start = 142
@@ -168,36 +168,36 @@ def Get_Data_From_Page(HD_Number):
     offset = offset - 56
     data = listofTDTags[class_start + offset]
     while data.get("class") != "P":
-        a_textMap = {}
+        #a_textMap = {}
         for importantnumber in important_O_Number:
             data = listofTDTags[importantnumber + offset].getText()
             Description = important_O_Number[importantnumber]
             dataToFile.write(Description + ": " + encode(data) + "\n")
-            a_textMap[Description] = encode(data)
+            inscriptionMap[Description] = encode(data)
             print importantnumber + offset
             print important_O_Number[importantnumber]
             print data
         offset += 3
         data = listofTDTags[class_start + offset]
-        a_textList.append(a_textMap)
+        #a_textList.append(a_textMap)
         
     #get the b-text(s)
     class_start = 201
     offset = offset - 2
     data = listofTDTags[class_start + offset]
     while data.get("class") != "Q":
-        b_textMap = {}
+        #b_textMap = {}
         for importantnumber in important_P_Number:
             data = listofTDTags[importantnumber + offset].getText()
             Description = important_P_Number[importantnumber]
             dataToFile.write(Description + ": " + encode(data) + "\n")
-            b_textMap[Description] = encode(data)
+            inscriptionMap[Description] = encode(data)
             print importantnumber + offset
             print important_P_Number[importantnumber]
             print data
         offset += 3
         data = listofTDTags[class_start + offset]
-        b_textList.append(b_textMap)
+        #b_textList.append(b_textMap)
         
     #get the list of words
     class_start = 204
@@ -216,11 +216,5 @@ def Get_Data_From_Page(HD_Number):
     
      
     #after all the hard work, create and return the pageData object
-    pageData = PageData(inscriptionMap,
-                    literatureList,
-                    commentList,
-                    connectionList,
-                    personList,
-                    a_textList,
-                    b_textList)
+    pageData = PageData(inscriptionMap, personList)
     return pageData
