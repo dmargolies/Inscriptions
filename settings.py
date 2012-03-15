@@ -1,4 +1,4 @@
-# Django settings for firstapp project. test2
+# Django settings for firstapp project. test33
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
