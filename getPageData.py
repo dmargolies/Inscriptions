@@ -16,7 +16,7 @@ positionAndValue = {2:"HD-Number", 5:"TM-Number", 8:"Province", 11:"Modern count
                     59:"height of inscribed field", 62:"width of inscribed field", 65:"letters size",
                     68:"ligature", 71:"meter", 74:"language",
                     77:"date:day:", 80:"date:month:", 83:"date:year(terminus a quo)",
-                    86:"date:specific:", 89:"social,economic, leagal history", 92:"religion",
+                    86:"date:specific:", 89:"social,economic, legal history", 92:"religion",
                     95:"communal groups", 98:"geography",
                     101:"political communities", 104:"military", 107:"status of the EDH-version",
                     110:"responsible individual", 113:"last update", 116:"palaeography: longa",

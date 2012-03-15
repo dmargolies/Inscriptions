@@ -18,7 +18,8 @@ def saveToDB(pageData):
     if not wasCreated:
         print "inscription", inscription.hd_number, "already exists"
 
-    #persons (if the inscription already existed, duplicate persons will be added)
+    #persons -- delete any existing persons first
+    inscription.persons.all().delete()
     for personMap in personList:
         person = createPerson(personMap)
         person.save()

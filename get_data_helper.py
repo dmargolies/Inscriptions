@@ -1,9 +1,10 @@
 from django.core.management import setup_environ
+import time
 import settings
 setup_environ(settings)
 
 from inscriptions.models import *
-import datetime #remove after testing ??
+from datetime import datetime #remove after testing ??
 
 def toFloat(dub):
         if dub == None:
@@ -68,7 +69,7 @@ def createInscription(insMap):
         date_month= lookup("date:month:", insMap),
         date_year= lookup("date:year(terminus a quo)", insMap),
         date_specific= lookup("date:specific:", insMap),
-        sel_history = lookup("social,economic, leagal history", insMap),
+        sel_history = lookup("social,economic, legal history", insMap),
         religion = lookup("religion", insMap),
         communal_groups = lookup("communal groups", insMap),
         geography = lookup("geography", insMap),
@@ -76,7 +77,7 @@ def createInscription(insMap):
         military = lookup("military", insMap),
         status_EDH_version = lookup("status of the EDH-version", insMap),
         responsible_individual = lookup("responsible individual", insMap),
-        last_update= datetime.datetime.now(), #update this!
+        last_update= datetime.strptime(lookup("last update", insMap), '%Y-%m-%d'), #should work now
         palaeography_longa = lookup("palaeography: longa", insMap),
         palaeography_apica_ornata = lookup("palaeography: apice ornata", insMap),
         palaeography_parva = lookup("palaeography: parva", insMap),
